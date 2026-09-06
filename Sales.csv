@@ -1,0 +1,1001 @@
+﻿OrderID,EmployeeID,CustomerName,Region,Category,Sales,Profit,Discount,Date
+1001,35,Neha Kapoor,West,Software,4637.96,909.99,0.05,10-10-2024
+1002,32,Ananya Gupta,East,Software,2816.7,402.62,0.12,15-02-2022
+1003,44,Rahul Sharma,West,Office Supplies,2227.48,205.87,0.16,28-11-2021
+1004,36,Neha Kapoor,East,Services,596.44,142.91,0.02,14-01-2024
+1005,53,Simran Kaur,South,Software,6636.08,983.23,0.16,09-07-2020
+1006,38,Priya Singh,West,Furniture,3408.96,566.95,0.09,23-12-2022
+1007,45,Karan Jain,East,Office Supplies,7177.12,747.74,0.05,04-09-2020
+1008,93,Priya Singh,East,Electronics,7557.37,1815.1,0.14,27-01-2021
+1009,28,Simran Kaur,East,Services,9777.77,1514.84,0.06,24-07-2020
+1010,25,Rohit Verma,South,Office Supplies,2204.69,116.47,0.11,15-07-2021
+1011,6,Rahul Sharma,East,Furniture,6559.76,1315.62,0.02,26-01-2020
+1012,74,Rohit Verma,West,Software,4684.45,406.95,0.01,30-10-2024
+1013,62,Ananya Gupta,North,Software,5171.59,855.4,0.14,06-11-2020
+1014,20,Neha Kapoor,East,Electronics,9942.22,732.65,0.15,26-05-2023
+1015,77,Neha Kapoor,South,Services,4113.59,953.12,0.06,20-04-2023
+1016,55,Rohit Verma,North,Services,9621.03,672,0.15,05-07-2023
+1017,28,Rohit Verma,North,Furniture,2778.72,445.7,0.03,16-04-2022
+1018,58,Neha Kapoor,West,Office Supplies,810.08,87.18,0.06,26-10-2024
+1019,59,Ananya Gupta,South,Office Supplies,7984.37,1397.36,0.13,09-02-2021
+1020,55,Ananya Gupta,South,Furniture,9129.91,1965.91,0.01,05-12-2020
+1021,40,Neha Kapoor,East,Software,1681.36,315.65,0.14,11-07-2021
+1022,65,Amit Bansal,West,Software,1264.2,73.29,0.09,22-10-2021
+1023,78,Rohit Verma,North,Electronics,2674.78,494.46,0.17,17-04-2023
+1024,3,Rohit Verma,North,Furniture,4969.76,896.06,0.18,06-01-2021
+1025,75,Karan Jain,West,Electronics,4965.1,653.75,0.06,02-08-2020
+1026,21,Sneha Patel,West,Software,3238.07,774.02,0.16,31-01-2023
+1027,5,Simran Kaur,North,Office Supplies,2897.79,212.07,0.15,06-11-2024
+1028,66,Rahul Sharma,West,Software,1014.94,155.98,0.12,17-10-2022
+1029,81,Simran Kaur,North,Furniture,3037.03,231.43,0.06,08-12-2024
+1030,90,Simran Kaur,North,Electronics,9744.89,1673.92,0.05,20-11-2020
+1031,40,Amit Bansal,North,Services,4375.91,415.45,0.17,20-08-2020
+1032,60,Ananya Gupta,South,Software,9360.2,1014.39,0.14,30-04-2022
+1033,62,Simran Kaur,South,Software,5737.02,726.98,0.18,06-11-2022
+1034,96,Arjun Mehta,North,Office Supplies,7840.41,1731.81,0.07,01-06-2024
+1035,65,Rohit Verma,North,Office Supplies,7397.48,1608.92,0.12,13-09-2023
+1036,63,Arjun Mehta,West,Services,5101.24,594.23,0.15,11-02-2022
+1037,59,Sneha Patel,South,Furniture,5932.08,573.71,0.16,30-03-2020
+1038,41,Simran Kaur,West,Software,9889.93,2061.84,0.13,07-11-2020
+1039,64,Rahul Sharma,South,Services,9670.86,1125.68,0.02,26-09-2024
+1040,57,Ananya Gupta,West,Electronics,7363.22,971.91,0.13,12-11-2020
+1041,10,Simran Kaur,East,Office Supplies,6420.96,831.49,0.02,03-11-2021
+1042,87,Amit Bansal,West,Office Supplies,6454.59,1468.34,0.1,13-01-2023
+1043,5,Neha Kapoor,North,Furniture,6496.03,1521.28,0.2,09-03-2024
+1044,12,Karan Jain,North,Electronics,4714.95,890.18,0.18,04-04-2020
+1045,42,Rahul Sharma,East,Office Supplies,4060.99,321.28,0.11,05-03-2023
+1046,88,Arjun Mehta,South,Furniture,1250.2,280.25,0.12,08-05-2021
+1047,64,Neha Kapoor,South,Furniture,4880.92,491.97,0.05,20-01-2020
+1048,60,Rohit Verma,South,Electronics,4696.43,559.41,0.12,01-08-2023
+1049,55,Rohit Verma,West,Office Supplies,2392.56,303.71,0.1,30-04-2021
+1050,49,Neha Kapoor,East,Services,3310.79,628.57,0,26-08-2024
+1051,85,Karan Jain,East,Electronics,5876.33,1099.81,0.15,10-04-2020
+1052,78,Simran Kaur,East,Furniture,6267.12,754.96,0.13,25-06-2023
+1053,33,Arjun Mehta,North,Electronics,3434.86,474.58,0.12,08-02-2024
+1054,17,Ananya Gupta,East,Office Supplies,7601.07,647.06,0.03,09-01-2023
+1055,47,Amit Bansal,East,Furniture,2941.22,632.18,0.1,09-07-2024
+1056,38,Sneha Patel,North,Software,9647.49,753.96,0.19,27-10-2024
+1057,87,Karan Jain,East,Electronics,8011.48,422.88,0.11,20-07-2022
+1058,48,Rohit Verma,West,Office Supplies,1529.29,147.98,0.01,15-12-2024
+1059,72,Sneha Patel,South,Electronics,6536.34,933.74,0.14,22-08-2023
+1060,53,Ananya Gupta,South,Electronics,9489.48,1052.13,0.1,18-07-2020
+1061,31,Amit Bansal,South,Software,4809.62,885.44,0.15,11-01-2023
+1062,54,Neha Kapoor,South,Software,6721.76,1456.86,0.12,26-07-2021
+1063,5,Sneha Patel,South,Software,4724.61,459.34,0.07,05-11-2023
+1064,48,Amit Bansal,East,Electronics,4282.33,376.68,0.02,02-10-2024
+1065,59,Ananya Gupta,South,Services,9725.39,584.65,0.07,14-09-2020
+1066,73,Priya Singh,North,Services,2468,229.99,0.17,03-11-2021
+1067,100,Arjun Mehta,North,Office Supplies,8654.86,683.19,0.03,28-05-2021
+1068,23,Ananya Gupta,North,Furniture,641.17,133.36,0.05,25-10-2021
+1069,3,Arjun Mehta,East,Electronics,1704.21,228.69,0.02,10-05-2020
+1070,61,Simran Kaur,East,Services,6139.83,862.04,0.04,13-06-2023
+1071,6,Amit Bansal,East,Software,6611.74,371.78,0.2,01-10-2024
+1072,52,Karan Jain,North,Software,7267.81,1008.14,0.18,21-10-2021
+1073,78,Arjun Mehta,North,Furniture,3112.65,549.74,0.11,27-10-2021
+1074,49,Neha Kapoor,East,Software,5302.74,721.38,0.16,22-08-2020
+1075,84,Amit Bansal,South,Software,4789.77,458.37,0.07,17-07-2022
+1076,52,Karan Jain,North,Office Supplies,4554.26,833.53,0.07,08-11-2020
+1077,88,Simran Kaur,North,Electronics,8401.83,576.75,0.02,22-02-2024
+1078,48,Arjun Mehta,North,Services,9587.93,1556.47,0.13,21-04-2022
+1079,46,Karan Jain,North,Office Supplies,6203.9,746.51,0.12,11-03-2021
+1080,20,Simran Kaur,South,Electronics,3826.08,616.97,0.02,24-07-2021
+1081,74,Priya Singh,West,Services,9758.19,2085.18,0.12,09-08-2023
+1082,72,Rahul Sharma,East,Electronics,2213.95,421.85,0.06,26-11-2021
+1083,45,Rahul Sharma,South,Furniture,5880.05,765.33,0.03,20-07-2023
+1084,4,Ananya Gupta,South,Software,4488.41,530.44,0.07,17-01-2024
+1085,42,Neha Kapoor,North,Electronics,1978.01,397.36,0.01,16-06-2020
+1086,35,Simran Kaur,West,Software,6267.22,832.52,0.04,15-11-2022
+1087,15,Sneha Patel,West,Electronics,3190.84,592.53,0.1,28-09-2023
+1088,40,Rahul Sharma,South,Software,9852.23,600.56,0.04,08-03-2021
+1089,99,Arjun Mehta,East,Office Supplies,3617.16,186.45,0.15,25-12-2020
+1090,17,Karan Jain,South,Services,5807.87,1066.38,0.07,24-03-2022
+1091,95,Rahul Sharma,West,Electronics,4867.67,319.19,0.06,29-05-2022
+1092,74,Karan Jain,West,Office Supplies,1594.15,86.36,0.06,29-06-2024
+1093,80,Simran Kaur,East,Electronics,4648.76,330.86,0.09,31-03-2022
+1094,68,Ananya Gupta,West,Office Supplies,7585.15,715.39,0.16,05-06-2020
+1095,66,Ananya Gupta,South,Office Supplies,3835.45,926.82,0.13,29-10-2020
+1096,31,Ananya Gupta,South,Office Supplies,2374.08,404.73,0.15,04-09-2023
+1097,10,Arjun Mehta,West,Software,7667.24,1548.59,0.09,11-12-2024
+1098,73,Neha Kapoor,East,Office Supplies,1934.1,123.12,0.09,12-09-2021
+1099,36,Neha Kapoor,North,Office Supplies,5319.7,596.24,0.09,26-04-2020
+1100,48,Rohit Verma,North,Electronics,6342.58,960.35,0.09,09-02-2023
+1101,95,Rahul Sharma,West,Services,6692.46,764.98,0.1,04-11-2020
+1102,8,Simran Kaur,North,Office Supplies,9832.66,657.47,0.13,21-03-2020
+1103,32,Simran Kaur,West,Services,5466.11,446.85,0.07,02-08-2021
+1104,50,Karan Jain,East,Services,997.47,175.73,0.07,06-11-2021
+1105,13,Amit Bansal,West,Office Supplies,2893.96,637.58,0.19,19-05-2023
+1106,20,Sneha Patel,North,Services,6804.32,1587.78,0.06,05-09-2023
+1107,90,Karan Jain,South,Services,7233.92,484.27,0.11,10-08-2023
+1108,43,Arjun Mehta,North,Software,5330.64,285.97,0.06,14-03-2021
+1109,44,Simran Kaur,South,Furniture,9999.78,809.87,0.06,02-06-2024
+1110,13,Amit Bansal,North,Office Supplies,8825.73,1532.2,0.12,11-11-2020
+1111,21,Arjun Mehta,South,Software,915.08,112.43,0.14,28-06-2022
+1112,79,Rohit Verma,West,Furniture,5573.11,623.6,0.16,18-08-2022
+1113,25,Sneha Patel,West,Software,7809.67,1605.86,0.1,07-05-2022
+1114,21,Priya Singh,South,Office Supplies,995.71,145.49,0.07,29-07-2020
+1115,92,Amit Bansal,North,Office Supplies,1296.81,106.42,0.09,17-11-2022
+1116,19,Karan Jain,North,Furniture,8258.68,1874.11,0.19,29-04-2022
+1117,7,Karan Jain,East,Furniture,4168.58,276.46,0.04,14-10-2021
+1118,13,Sneha Patel,South,Furniture,863.88,201.7,0.09,29-08-2024
+1119,18,Simran Kaur,West,Services,549.89,36.21,0.05,06-09-2024
+1120,20,Amit Bansal,West,Electronics,7873.64,767.9,0.02,03-05-2021
+1121,54,Neha Kapoor,West,Electronics,1553.15,358.82,0.12,03-02-2020
+1122,81,Amit Bansal,South,Furniture,3267.08,164.38,0.07,14-03-2023
+1123,54,Arjun Mehta,North,Services,9759.22,620.06,0.11,05-11-2022
+1124,65,Amit Bansal,North,Software,8796.65,516.42,0.08,03-02-2022
+1125,33,Rahul Sharma,East,Electronics,3775.62,742.24,0.13,29-04-2024
+1126,75,Sneha Patel,South,Electronics,3846.84,452.81,0.13,27-08-2024
+1127,100,Simran Kaur,West,Furniture,8209.23,514.06,0.16,26-07-2022
+1128,5,Rohit Verma,South,Electronics,8015.54,1820.79,0.06,27-09-2021
+1129,66,Karan Jain,West,Office Supplies,847.9,152.1,0.06,31-10-2024
+1130,100,Rahul Sharma,East,Office Supplies,1682.51,207.96,0.18,02-03-2024
+1131,57,Karan Jain,East,Furniture,5213.93,779.51,0.18,29-11-2022
+1132,35,Ananya Gupta,West,Electronics,4590.77,1143.19,0.04,24-08-2021
+1133,42,Ananya Gupta,North,Office Supplies,6778.73,754.47,0.12,22-05-2022
+1134,22,Simran Kaur,East,Software,902.37,202.14,0.07,09-06-2022
+1135,36,Rahul Sharma,North,Software,3951.46,830.67,0.14,04-03-2020
+1136,19,Neha Kapoor,West,Electronics,1699.19,165.16,0.13,11-01-2022
+1137,50,Neha Kapoor,North,Services,1957.66,274.04,0.07,28-06-2022
+1138,98,Ananya Gupta,South,Services,3986.02,449.93,0.06,20-08-2020
+1139,4,Arjun Mehta,West,Services,4176.38,677.97,0.05,17-06-2021
+1140,91,Simran Kaur,South,Services,3212.98,749.57,0.1,08-09-2020
+1141,18,Ananya Gupta,West,Furniture,9037.45,1256.41,0.02,28-10-2023
+1142,41,Sneha Patel,North,Services,5650.63,1289.85,0.17,28-12-2023
+1143,91,Arjun Mehta,East,Services,2630.3,649.75,0.16,29-04-2021
+1144,64,Rahul Sharma,East,Services,5936.64,851.8,0.2,22-09-2020
+1145,79,Ananya Gupta,North,Office Supplies,4282.52,828.18,0.1,21-04-2022
+1146,99,Karan Jain,North,Furniture,9737.61,1737.85,0.09,24-10-2023
+1147,67,Sneha Patel,South,Services,6578.04,568.29,0.19,05-06-2022
+1148,65,Rahul Sharma,North,Services,1953.65,162.02,0.06,23-12-2023
+1149,29,Sneha Patel,East,Electronics,2880.75,509.93,0.11,13-09-2020
+1150,81,Rohit Verma,North,Services,6589.38,1109.4,0.12,16-12-2020
+1151,85,Neha Kapoor,East,Services,891.35,198.55,0.02,06-08-2023
+1152,99,Neha Kapoor,East,Furniture,7786.11,1038.02,0.13,16-10-2022
+1153,81,Amit Bansal,East,Office Supplies,5087.98,1073.25,0.14,01-09-2021
+1154,59,Ananya Gupta,North,Furniture,4676.25,686.71,0.04,27-05-2023
+1155,19,Sneha Patel,East,Office Supplies,9766.05,743.72,0.07,24-02-2023
+1156,14,Sneha Patel,South,Software,1663.96,232.82,0.03,13-04-2020
+1157,38,Karan Jain,West,Furniture,9645.52,2222.93,0.16,29-03-2023
+1158,93,Sneha Patel,South,Furniture,5233.52,800.44,0.1,23-09-2021
+1159,64,Rahul Sharma,North,Software,5301.72,1290.11,0.04,23-12-2021
+1160,7,Rahul Sharma,East,Software,6176.43,1349.98,0.13,08-08-2021
+1161,69,Rahul Sharma,North,Software,1772.38,182.37,0.07,05-04-2022
+1162,47,Rahul Sharma,West,Electronics,5917.68,526.27,0.11,30-05-2020
+1163,50,Amit Bansal,West,Services,3157.35,782.45,0.14,31-08-2020
+1164,17,Ananya Gupta,West,Office Supplies,8051.52,948.61,0.19,26-03-2024
+1165,19,Priya Singh,West,Services,882.42,50.99,0.14,04-07-2024
+1166,61,Amit Bansal,West,Furniture,6259.47,958.33,0.07,09-06-2023
+1167,41,Arjun Mehta,West,Services,7523.53,826.44,0.07,23-08-2024
+1168,66,Amit Bansal,West,Services,3348.01,713.63,0.07,11-10-2023
+1169,15,Karan Jain,East,Electronics,6170.64,636.23,0.13,08-05-2024
+1170,75,Neha Kapoor,South,Electronics,6043.47,508.27,0.13,23-06-2023
+1171,100,Karan Jain,South,Furniture,799.92,191.69,0.02,08-02-2020
+1172,57,Sneha Patel,West,Furniture,4423.12,401.52,0.1,06-06-2023
+1173,61,Rahul Sharma,South,Services,2469.75,284.05,0.13,12-12-2022
+1174,49,Sneha Patel,South,Software,9165.18,1085.76,0.07,30-04-2024
+1175,93,Rohit Verma,West,Furniture,9594.71,1015.13,0.06,01-09-2021
+1176,99,Rohit Verma,South,Software,3511.89,420.59,0.19,16-06-2024
+1177,93,Rohit Verma,East,Electronics,5948.03,943.58,0.18,19-03-2022
+1178,45,Arjun Mehta,East,Electronics,3232.49,623.32,0.07,24-06-2022
+1179,84,Rohit Verma,West,Furniture,2419.65,381.62,0.19,26-11-2023
+1180,35,Arjun Mehta,North,Services,7538.46,737.69,0.01,23-12-2022
+1181,29,Priya Singh,North,Electronics,4426.36,856.38,0.02,27-04-2024
+1182,18,Rahul Sharma,South,Software,6702.48,1515.63,0.1,25-08-2023
+1183,26,Rohit Verma,East,Office Supplies,6636.03,1536.82,0.02,21-03-2023
+1184,30,Amit Bansal,North,Furniture,4469.91,972.3,0.19,15-03-2020
+1185,51,Simran Kaur,South,Office Supplies,8829.06,457.82,0.11,07-08-2020
+1186,43,Rohit Verma,West,Services,5481.03,1248.86,0.03,29-10-2022
+1187,60,Rohit Verma,South,Electronics,3641.5,714.55,0.13,11-01-2024
+1188,24,Rahul Sharma,East,Office Supplies,5893.92,1187.37,0.04,19-10-2024
+1189,82,Karan Jain,West,Services,3615.3,470.59,0.02,14-10-2020
+1190,62,Sneha Patel,South,Electronics,2977.46,289.12,0.15,06-11-2021
+1191,39,Neha Kapoor,North,Office Supplies,6709.99,1265.19,0.01,30-08-2020
+1192,60,Rohit Verma,South,Software,7017.7,1646.5,0.18,25-04-2024
+1193,40,Ananya Gupta,East,Office Supplies,6338.94,594.76,0.03,09-11-2020
+1194,59,Neha Kapoor,East,Software,7168.44,1667.09,0.15,30-06-2024
+1195,86,Priya Singh,South,Services,8794.78,583.75,0.09,12-12-2023
+1196,47,Ananya Gupta,North,Electronics,8373.35,1930.71,0.04,04-01-2023
+1197,20,Arjun Mehta,East,Services,4697.49,874.01,0.14,28-09-2022
+1198,12,Amit Bansal,West,Electronics,4807.61,733.88,0.09,28-04-2020
+1199,72,Simran Kaur,East,Electronics,4261.51,908.94,0.15,30-03-2023
+1200,10,Rahul Sharma,West,Office Supplies,7153.66,1131.94,0.01,21-05-2020
+1201,61,Rahul Sharma,East,Software,2209.82,170.35,0.13,02-02-2024
+1202,83,Karan Jain,East,Software,4761.1,1111.35,0.08,13-06-2020
+1203,88,Amit Bansal,South,Office Supplies,1627.02,404.43,0.08,17-09-2020
+1204,94,Priya Singh,North,Electronics,9795.66,1396.87,0.14,18-05-2022
+1205,69,Karan Jain,South,Furniture,4875.94,395.07,0.04,27-11-2024
+1206,93,Ananya Gupta,North,Software,6341.77,1504.57,0.18,07-05-2021
+1207,27,Ananya Gupta,North,Services,818.97,138.86,0.14,09-04-2020
+1208,32,Rahul Sharma,West,Software,2726.22,254.78,0.17,25-04-2020
+1209,18,Amit Bansal,East,Furniture,8249.97,1619.5,0.06,09-05-2023
+1210,99,Sneha Patel,South,Office Supplies,8824.45,2180.87,0.1,26-04-2022
+1211,39,Rohit Verma,North,Services,9510.94,2148.93,0.18,06-07-2023
+1212,87,Karan Jain,West,Electronics,9736.76,2320.44,0.13,28-05-2024
+1213,68,Sneha Patel,West,Software,1917.57,240.26,0.15,27-08-2022
+1214,31,Priya Singh,East,Furniture,8154.87,1899.66,0.11,03-05-2022
+1215,72,Amit Bansal,South,Software,2807.16,254.52,0.13,10-07-2022
+1216,48,Ananya Gupta,South,Electronics,3050.39,563.51,0.12,24-11-2024
+1217,10,Priya Singh,South,Software,2484.45,574.92,0.06,01-02-2020
+1218,28,Priya Singh,North,Software,9187.19,1737.53,0.14,23-03-2022
+1219,31,Amit Bansal,East,Office Supplies,4116.29,645.15,0.07,19-06-2021
+1220,47,Amit Bansal,West,Software,1436.78,353.83,0.09,15-09-2024
+1221,41,Priya Singh,East,Office Supplies,4432.34,720.28,0.04,25-10-2020
+1222,3,Rohit Verma,West,Office Supplies,1947.91,225.91,0.08,02-09-2024
+1223,32,Simran Kaur,East,Office Supplies,7751.93,1145.15,0.14,23-02-2024
+1224,63,Simran Kaur,South,Office Supplies,2108.02,409.09,0.1,26-12-2024
+1225,70,Rahul Sharma,North,Electronics,9479.29,1740.81,0.15,24-04-2022
+1226,18,Priya Singh,North,Furniture,586.84,88.7,0.07,19-06-2023
+1227,82,Neha Kapoor,West,Software,649.45,101.6,0.08,04-02-2020
+1228,68,Rohit Verma,East,Electronics,5271.05,999.24,0.09,02-01-2021
+1229,14,Ananya Gupta,South,Furniture,2323.35,360.8,0.16,01-07-2021
+1230,51,Ananya Gupta,East,Software,4860.48,479.45,0.14,06-09-2021
+1231,88,Ananya Gupta,North,Electronics,4350.14,545.66,0.1,28-07-2023
+1232,2,Arjun Mehta,North,Software,8530.63,1526.82,0.07,23-10-2024
+1233,13,Amit Bansal,North,Furniture,2508.46,560.95,0.18,31-08-2022
+1234,35,Rahul Sharma,North,Office Supplies,9043.46,1471.39,0.01,07-10-2024
+1235,41,Rahul Sharma,South,Services,1869.82,400.4,0.16,06-06-2020
+1236,39,Arjun Mehta,South,Services,8429.18,1077.51,0.18,10-11-2021
+1237,50,Arjun Mehta,North,Services,7581.84,903.54,0.02,20-04-2021
+1238,10,Sneha Patel,West,Office Supplies,781.44,81.79,0.2,01-10-2022
+1239,30,Sneha Patel,West,Software,2264.51,378.57,0.08,30-04-2024
+1240,80,Rohit Verma,South,Electronics,1279.36,103.43,0.14,22-07-2023
+1241,20,Karan Jain,East,Office Supplies,1512.23,77.18,0.06,07-01-2022
+1242,98,Rohit Verma,North,Furniture,1329.32,181.05,0.11,15-11-2022
+1243,53,Ananya Gupta,North,Electronics,3862.19,265,0.12,26-10-2021
+1244,50,Rahul Sharma,East,Software,4184.1,280.08,0.18,12-05-2021
+1245,74,Amit Bansal,South,Software,2110.27,219.01,0.05,25-10-2020
+1246,9,Arjun Mehta,West,Office Supplies,4500.47,660.88,0.02,30-05-2021
+1247,32,Simran Kaur,South,Software,1516.24,168.2,0.19,11-11-2021
+1248,80,Karan Jain,East,Software,3679.99,784.19,0.17,02-05-2023
+1249,18,Rohit Verma,East,Services,9499.15,856.54,0.06,26-03-2022
+1250,41,Rohit Verma,West,Services,7928.76,913.21,0.06,28-05-2024
+1251,51,Sneha Patel,North,Services,2398.1,598.21,0.04,21-04-2024
+1252,71,Rahul Sharma,West,Furniture,4665.32,505.1,0.14,04-08-2024
+1253,53,Simran Kaur,South,Office Supplies,2799.2,508.71,0.14,04-06-2024
+1254,49,Ananya Gupta,West,Services,5052.73,657.67,0.1,16-11-2024
+1255,89,Karan Jain,North,Office Supplies,7165.53,1522.38,0.12,23-06-2020
+1256,14,Priya Singh,East,Furniture,6646.5,391.21,0.2,19-10-2023
+1257,83,Karan Jain,East,Software,1506.47,105.03,0.04,09-03-2024
+1258,67,Amit Bansal,South,Software,4054.14,578.17,0.14,15-11-2023
+1259,65,Arjun Mehta,East,Electronics,5086.33,554.85,0.18,24-06-2020
+1260,15,Arjun Mehta,East,Office Supplies,3759.13,777.59,0.1,14-12-2021
+1261,61,Ananya Gupta,West,Software,3529.64,388.45,0.16,23-08-2020
+1262,3,Sneha Patel,North,Furniture,9334.26,1849.1,0.1,04-02-2023
+1263,21,Sneha Patel,West,Software,2702.63,354.07,0.04,04-08-2023
+1264,85,Karan Jain,West,Electronics,7505.19,1700.82,0.09,29-05-2022
+1265,50,Rahul Sharma,South,Furniture,3144.28,599.78,0.16,28-03-2023
+1266,14,Amit Bansal,South,Office Supplies,3596.86,508.99,0.05,01-11-2024
+1267,63,Amit Bansal,East,Services,4192.07,538.72,0.02,21-12-2021
+1268,59,Neha Kapoor,South,Office Supplies,9227.48,1550.53,0.13,03-10-2021
+1269,16,Priya Singh,East,Electronics,2238.92,422.46,0.1,06-05-2022
+1270,77,Arjun Mehta,West,Software,2264.66,401.07,0.14,14-08-2023
+1271,23,Amit Bansal,South,Software,3243.93,283.58,0.17,22-06-2023
+1272,7,Sneha Patel,North,Software,1797.08,382.86,0.19,01-11-2022
+1273,84,Simran Kaur,West,Software,4448.49,969.67,0.1,18-06-2020
+1274,73,Rahul Sharma,South,Office Supplies,810.6,76.98,0.06,17-05-2024
+1275,59,Neha Kapoor,West,Services,5352.66,880.74,0.05,17-01-2023
+1276,47,Amit Bansal,North,Software,5690.36,1410.95,0.02,26-08-2024
+1277,84,Priya Singh,East,Electronics,4772.46,571.34,0.16,18-06-2022
+1278,16,Priya Singh,South,Services,7046.77,1565.86,0.12,26-05-2022
+1279,22,Neha Kapoor,South,Furniture,8228.53,1736.94,0.11,26-12-2022
+1280,36,Neha Kapoor,South,Office Supplies,9800.5,1063.62,0.11,23-10-2024
+1281,66,Ananya Gupta,South,Software,9228.3,2293.21,0.17,16-09-2020
+1282,90,Arjun Mehta,South,Furniture,7258.25,1565.58,0.15,16-10-2023
+1283,51,Simran Kaur,South,Services,6507.82,1142.53,0.08,03-06-2020
+1284,82,Ananya Gupta,West,Services,7623.12,1440.32,0.18,20-07-2022
+1285,63,Sneha Patel,North,Electronics,7443.85,1054.72,0.13,03-01-2022
+1286,9,Amit Bansal,West,Furniture,9697.22,2084.61,0.1,23-10-2021
+1287,37,Sneha Patel,South,Services,8598.01,1785.47,0.18,10-04-2024
+1288,7,Rahul Sharma,North,Software,654.67,154.43,0.03,23-07-2022
+1289,1,Karan Jain,South,Furniture,8880.4,980.16,0.17,30-11-2024
+1290,36,Ananya Gupta,East,Office Supplies,1283,234.66,0.13,16-04-2020
+1291,51,Rohit Verma,South,Software,6727.11,1283.13,0,03-09-2022
+1292,10,Arjun Mehta,South,Services,6959.84,360.92,0.14,31-07-2024
+1293,16,Karan Jain,South,Software,1172.87,148.5,0.15,28-07-2020
+1294,14,Sneha Patel,East,Office Supplies,1802.73,369,0.15,29-09-2020
+1295,83,Arjun Mehta,North,Services,5851.27,1006.79,0.03,20-12-2021
+1296,93,Priya Singh,South,Software,6352.72,879.7,0.04,24-07-2020
+1297,18,Ananya Gupta,West,Office Supplies,9650.86,1089.59,0.03,21-07-2021
+1298,83,Ananya Gupta,South,Services,6209.49,1206.11,0.06,15-11-2023
+1299,4,Rohit Verma,South,Services,6265.81,549.7,0.08,16-08-2023
+1300,7,Priya Singh,West,Software,1571.06,235.53,0.12,17-12-2022
+1301,2,Sneha Patel,East,Furniture,4174.96,909.28,0.08,23-01-2023
+1302,88,Arjun Mehta,West,Electronics,658.55,41.82,0.05,22-03-2020
+1303,8,Karan Jain,East,Services,7787.55,1049.1,0.08,04-08-2023
+1304,69,Amit Bansal,South,Office Supplies,1294.17,85.16,0.18,12-07-2024
+1305,20,Amit Bansal,East,Software,6071.15,1230.29,0.13,10-08-2023
+1306,9,Rohit Verma,West,Furniture,1050.11,70.61,0.09,17-07-2022
+1307,79,Neha Kapoor,North,Office Supplies,6827.76,1239.99,0.04,26-01-2020
+1308,91,Arjun Mehta,North,Furniture,5215.92,622.47,0.1,11-08-2024
+1309,93,Rohit Verma,South,Office Supplies,1705.84,351.79,0.05,20-12-2024
+1310,16,Rahul Sharma,East,Software,3083.82,193.58,0.14,26-03-2023
+1311,81,Ananya Gupta,West,Software,5352.43,326.97,0.17,07-12-2020
+1312,48,Arjun Mehta,East,Electronics,8995.55,1662.59,0.02,26-02-2024
+1313,66,Rahul Sharma,North,Electronics,2823.24,407.54,0.08,03-11-2020
+1314,23,Rahul Sharma,West,Furniture,3557.12,473.99,0.14,09-07-2021
+1315,10,Neha Kapoor,East,Electronics,5269.39,1214.01,0.04,05-07-2024
+1316,67,Rahul Sharma,West,Electronics,8831.42,1971.23,0.15,28-09-2021
+1317,42,Ananya Gupta,West,Electronics,4004.73,433.79,0.16,23-02-2024
+1318,80,Priya Singh,West,Office Supplies,6121.06,910.03,0.15,04-02-2021
+1319,94,Amit Bansal,South,Furniture,560.59,74,0.05,10-12-2021
+1320,82,Rahul Sharma,East,Electronics,7709.83,965.69,0.15,21-09-2021
+1321,14,Priya Singh,South,Software,5174.27,320.7,0.2,28-12-2023
+1322,36,Ananya Gupta,North,Furniture,9024.23,1389.3,0.14,01-02-2022
+1323,59,Ananya Gupta,North,Services,1768.38,378.42,0.01,08-03-2023
+1324,8,Karan Jain,South,Furniture,3270.92,720.2,0.19,15-03-2022
+1325,90,Sneha Patel,East,Software,3083.58,200.24,0.04,16-05-2024
+1326,99,Neha Kapoor,North,Furniture,1503.75,210.39,0.06,04-09-2020
+1327,69,Sneha Patel,South,Software,3428.92,353.18,0.02,18-11-2020
+1328,88,Rohit Verma,North,Furniture,8441.29,975.46,0.02,23-05-2021
+1329,46,Karan Jain,North,Office Supplies,2971.58,737.35,0.01,08-04-2022
+1330,58,Amit Bansal,South,Electronics,4889.41,1030.59,0.03,25-01-2020
+1331,8,Priya Singh,South,Furniture,8324.9,1036.02,0.13,13-08-2023
+1332,11,Neha Kapoor,East,Electronics,707.1,44.47,0.18,27-06-2022
+1333,17,Ananya Gupta,East,Electronics,905.62,128.78,0.03,21-03-2023
+1334,56,Karan Jain,West,Electronics,4135.93,559.73,0.07,18-01-2021
+1335,36,Rohit Verma,West,Furniture,829.17,144.14,0.05,27-08-2021
+1336,64,Karan Jain,West,Electronics,1333.35,168.81,0.08,09-08-2023
+1337,68,Priya Singh,North,Software,7928.2,965.83,0.11,19-09-2022
+1338,45,Neha Kapoor,East,Software,3069.14,169.46,0.12,01-03-2020
+1339,100,Rohit Verma,North,Software,5529.61,1124.55,0.2,22-11-2020
+1340,13,Priya Singh,South,Office Supplies,5570.05,1159.95,0.15,13-04-2024
+1341,29,Neha Kapoor,West,Office Supplies,9384.46,2330.24,0.03,29-04-2021
+1342,76,Sneha Patel,East,Services,767.96,146,0.19,28-02-2023
+1343,19,Neha Kapoor,South,Software,5650.18,480.89,0.01,25-04-2020
+1344,30,Neha Kapoor,South,Electronics,5501.26,275.82,0.18,16-02-2021
+1345,17,Sneha Patel,South,Office Supplies,1065.78,84.77,0.14,17-10-2020
+1346,100,Ananya Gupta,East,Electronics,4049.11,965.25,0.08,25-07-2020
+1347,44,Rohit Verma,East,Furniture,9770.68,1919.65,0.09,02-08-2023
+1348,63,Sneha Patel,South,Services,7088.82,1671.32,0.16,02-04-2021
+1349,86,Neha Kapoor,South,Software,3414.82,640.96,0.03,01-02-2024
+1350,1,Neha Kapoor,West,Services,807.64,137.68,0.18,06-06-2023
+1351,29,Neha Kapoor,North,Software,1836.11,365.51,0.05,16-10-2021
+1352,22,Ananya Gupta,East,Software,608.26,55.92,0.14,18-12-2021
+1353,33,Ananya Gupta,North,Electronics,4166.4,818.77,0.19,16-12-2024
+1354,53,Simran Kaur,West,Office Supplies,5687.23,399.73,0.1,04-11-2024
+1355,74,Priya Singh,South,Software,1200.24,263.04,0.06,14-10-2021
+1356,34,Ananya Gupta,North,Office Supplies,2116,264.69,0.15,25-01-2023
+1357,12,Sneha Patel,West,Electronics,4597.57,830.91,0.12,08-06-2022
+1358,21,Rahul Sharma,North,Office Supplies,2452.73,215.83,0.14,18-01-2024
+1359,94,Amit Bansal,East,Office Supplies,3325.31,230.06,0.08,30-01-2023
+1360,63,Arjun Mehta,North,Office Supplies,536.25,36.21,0.16,04-07-2023
+1361,77,Simran Kaur,South,Electronics,744.49,62.66,0.06,16-06-2020
+1362,61,Ananya Gupta,East,Software,4973.97,1138.92,0.05,07-08-2023
+1363,70,Karan Jain,South,Office Supplies,8912.18,1104.04,0.09,23-06-2021
+1364,57,Simran Kaur,East,Furniture,8452.25,1376.44,0.03,27-11-2023
+1365,86,Ananya Gupta,North,Office Supplies,8177.71,1085.98,0.15,10-04-2021
+1366,71,Rahul Sharma,West,Services,4477,703.35,0.17,30-08-2022
+1367,74,Priya Singh,West,Office Supplies,1250.07,288.21,0.14,25-10-2022
+1368,74,Amit Bansal,South,Electronics,9517.92,1330.68,0.19,08-12-2020
+1369,28,Priya Singh,South,Electronics,4522.06,1119.92,0.09,11-08-2024
+1370,81,Arjun Mehta,East,Office Supplies,9152.64,2131.05,0.01,05-03-2022
+1371,72,Karan Jain,East,Office Supplies,5437.04,1269.18,0,05-12-2023
+1372,80,Neha Kapoor,West,Electronics,4437.2,353.38,0.12,02-04-2024
+1373,13,Ananya Gupta,North,Office Supplies,8741.02,1975.71,0.18,24-06-2021
+1374,50,Simran Kaur,West,Electronics,2135.9,278.94,0.12,26-10-2023
+1375,89,Karan Jain,North,Software,8950.96,1040.99,0.05,07-03-2024
+1376,61,Rohit Verma,East,Electronics,3709.73,774.33,0.06,22-09-2024
+1377,63,Ananya Gupta,South,Furniture,3354.56,666.7,0.15,19-10-2021
+1378,35,Karan Jain,North,Furniture,4696.31,1092.77,0.08,19-09-2022
+1379,98,Amit Bansal,East,Electronics,5395.06,441.29,0.06,03-11-2022
+1380,52,Arjun Mehta,North,Furniture,2331.25,504.92,0.17,25-05-2021
+1381,5,Simran Kaur,North,Office Supplies,7194.02,753.9,0.16,31-10-2022
+1382,51,Ananya Gupta,North,Furniture,4038.43,681.72,0.04,17-11-2024
+1383,61,Neha Kapoor,East,Office Supplies,2053.38,470.02,0.15,11-11-2023
+1384,12,Rohit Verma,North,Software,971.68,214.51,0.16,14-03-2021
+1385,29,Priya Singh,South,Office Supplies,6690.08,1021.28,0.17,20-04-2024
+1386,88,Rahul Sharma,West,Furniture,6650.03,1132.02,0,31-05-2021
+1387,78,Rohit Verma,East,Software,9007.09,1984.42,0.09,22-03-2021
+1388,60,Rohit Verma,West,Services,1471.96,224.18,0.13,23-09-2024
+1389,48,Amit Bansal,East,Office Supplies,7001.92,1024.71,0.07,20-07-2021
+1390,82,Sneha Patel,East,Office Supplies,6733.14,1618.9,0.13,20-01-2021
+1391,20,Amit Bansal,South,Electronics,8151.58,1715.69,0.12,14-09-2023
+1392,41,Arjun Mehta,North,Software,9975.96,1016.4,0.08,06-03-2022
+1393,95,Rahul Sharma,South,Office Supplies,7402.22,699.31,0.11,26-05-2024
+1394,61,Sneha Patel,East,Furniture,8486.07,1911.9,0.04,18-07-2020
+1395,61,Arjun Mehta,East,Services,7747.72,671.06,0.14,18-11-2021
+1396,84,Ananya Gupta,South,Office Supplies,2621.62,587.99,0.08,21-12-2024
+1397,43,Sneha Patel,East,Services,3293.49,725.37,0.09,09-11-2024
+1398,82,Neha Kapoor,North,Software,8949.55,1343.29,0.17,20-02-2022
+1399,68,Rohit Verma,West,Electronics,8773.07,703.21,0.2,02-12-2021
+1400,53,Neha Kapoor,West,Furniture,3505.64,677.06,0.16,25-09-2022
+1401,43,Arjun Mehta,East,Electronics,544.78,57.04,0.15,11-12-2020
+1402,74,Arjun Mehta,West,Electronics,1729.36,236.48,0.09,28-05-2022
+1403,62,Karan Jain,North,Electronics,5570.93,1092.64,0.19,21-10-2021
+1404,97,Amit Bansal,South,Electronics,6929.11,1214.93,0.05,21-11-2023
+1405,45,Rohit Verma,South,Electronics,4143.73,695.04,0.03,14-08-2024
+1406,6,Rohit Verma,East,Software,7414.4,1255.07,0.07,23-12-2024
+1407,88,Arjun Mehta,East,Software,3912.88,343.1,0.19,20-07-2024
+1408,52,Rahul Sharma,South,Furniture,7408.1,564.8,0.15,22-04-2023
+1409,65,Arjun Mehta,North,Office Supplies,7255.55,1512.24,0.08,04-08-2023
+1410,33,Amit Bansal,North,Services,9949.46,1814.72,0.13,10-02-2020
+1411,7,Ananya Gupta,West,Software,4112.41,655.75,0.09,09-11-2020
+1412,27,Rahul Sharma,East,Software,6785.81,1238.39,0.05,25-05-2023
+1413,90,Arjun Mehta,West,Electronics,5360.06,930.18,0.06,26-05-2024
+1414,14,Simran Kaur,South,Services,2397.62,245.99,0.1,17-02-2021
+1415,46,Karan Jain,East,Furniture,874.35,130.52,0.04,11-09-2022
+1416,43,Priya Singh,North,Electronics,6880.51,1591.98,0.17,02-10-2023
+1417,64,Arjun Mehta,North,Services,1212.96,236.18,0.18,12-08-2023
+1418,30,Simran Kaur,East,Office Supplies,4910.63,343.56,0.03,21-03-2020
+1419,38,Sneha Patel,East,Software,7516.13,518.61,0.15,03-04-2020
+1420,2,Arjun Mehta,South,Office Supplies,3896.51,535.94,0.12,04-12-2024
+1421,94,Ananya Gupta,East,Office Supplies,2237.26,291.19,0.19,10-07-2021
+1422,50,Simran Kaur,West,Furniture,1574.04,297.86,0.01,25-09-2024
+1423,21,Ananya Gupta,West,Services,5085.41,832.93,0.09,05-06-2023
+1424,49,Sneha Patel,North,Furniture,5089.26,751.3,0.18,21-06-2022
+1425,6,Ananya Gupta,East,Office Supplies,617.42,138.1,0.1,02-03-2024
+1426,74,Neha Kapoor,South,Office Supplies,5431.45,1019.2,0.12,05-06-2022
+1427,85,Priya Singh,West,Office Supplies,6805.25,1213.25,0.03,19-08-2024
+1428,72,Neha Kapoor,North,Electronics,6612.29,538.14,0.17,10-10-2024
+1429,64,Arjun Mehta,North,Software,3546.02,411.97,0.06,04-11-2022
+1430,29,Amit Bansal,West,Software,8262.48,543.39,0.09,19-03-2023
+1431,58,Ananya Gupta,West,Software,3502.58,862.1,0.15,06-02-2020
+1432,14,Karan Jain,West,Electronics,5792.74,289.83,0.02,22-05-2023
+1433,80,Rohit Verma,South,Software,9528.37,1168.83,0.01,01-04-2021
+1434,59,Sneha Patel,West,Office Supplies,7301.18,531.56,0.15,30-03-2021
+1435,1,Sneha Patel,East,Office Supplies,5703.06,711.62,0.02,02-12-2020
+1436,64,Arjun Mehta,West,Electronics,2915.75,260.04,0.02,11-10-2024
+1437,51,Priya Singh,West,Furniture,7309.49,523.02,0.08,20-07-2023
+1438,87,Neha Kapoor,North,Software,4845.18,813.33,0.1,18-10-2022
+1439,1,Amit Bansal,North,Services,9385.43,2043.8,0.1,07-11-2022
+1440,100,Arjun Mehta,South,Furniture,1483.76,269.31,0.12,21-10-2021
+1441,65,Karan Jain,West,Services,9201.15,1863,0.05,03-12-2021
+1442,38,Simran Kaur,South,Furniture,4421.08,840.02,0.15,04-09-2021
+1443,90,Amit Bansal,East,Services,6509.54,587.02,0.12,18-08-2021
+1444,88,Sneha Patel,South,Furniture,5286.99,998.51,0.06,24-08-2020
+1445,98,Sneha Patel,West,Services,5921.06,1086.11,0.08,11-03-2024
+1446,69,Rohit Verma,West,Electronics,5465.93,300.92,0.03,04-10-2023
+1447,8,Priya Singh,East,Furniture,9843.56,1837.58,0.03,07-05-2020
+1448,89,Rohit Verma,South,Services,806.91,171.71,0.02,12-11-2024
+1449,87,Amit Bansal,South,Services,4194.42,638.33,0.16,26-11-2023
+1450,37,Rahul Sharma,West,Software,4457.38,925.45,0.14,04-02-2023
+1451,7,Rahul Sharma,East,Furniture,6395.34,1318.62,0.17,26-08-2024
+1452,29,Sneha Patel,South,Furniture,3294.69,281.65,0.14,17-01-2021
+1453,23,Amit Bansal,North,Software,886.03,93.76,0.05,25-11-2020
+1454,75,Rohit Verma,North,Office Supplies,4930.15,1170.91,0.01,22-10-2021
+1455,77,Rahul Sharma,East,Software,8004.13,1280.92,0.01,20-12-2023
+1456,41,Amit Bansal,South,Furniture,5445.76,1128.64,0.03,17-01-2023
+1457,69,Karan Jain,North,Office Supplies,2601.38,241.07,0.07,08-01-2022
+1458,38,Priya Singh,West,Services,8325.04,2049.85,0,01-10-2023
+1459,45,Simran Kaur,South,Services,9226.77,911.29,0.01,18-12-2024
+1460,42,Karan Jain,North,Software,2937.61,572.23,0,24-11-2022
+1461,99,Sneha Patel,West,Software,916.59,210.5,0.04,18-11-2022
+1462,11,Ananya Gupta,South,Services,5565.46,976.11,0.04,13-07-2023
+1463,100,Priya Singh,West,Electronics,2453.01,529.24,0.18,27-02-2024
+1464,100,Karan Jain,North,Furniture,725.65,140.32,0.01,30-05-2020
+1465,7,Arjun Mehta,East,Services,1169.2,250.59,0.18,14-04-2022
+1466,50,Simran Kaur,West,Software,3505.84,448.4,0.02,13-01-2020
+1467,83,Neha Kapoor,North,Services,932.41,204.8,0.07,26-10-2022
+1468,14,Rohit Verma,East,Services,1321.8,268.4,0.09,20-03-2022
+1469,85,Rahul Sharma,West,Furniture,5567.94,430.27,0.08,21-06-2024
+1470,70,Rohit Verma,South,Office Supplies,6934.25,1614.53,0.16,02-02-2024
+1471,83,Sneha Patel,North,Services,8810.29,689.62,0.01,18-03-2023
+1472,77,Karan Jain,North,Office Supplies,2495.5,494.82,0.15,09-03-2021
+1473,53,Amit Bansal,South,Furniture,2247.93,389.74,0.05,22-08-2020
+1474,24,Neha Kapoor,North,Services,4882.02,780.8,0.06,17-05-2020
+1475,33,Ananya Gupta,South,Services,5128.31,595.76,0.03,04-09-2023
+1476,31,Ananya Gupta,East,Services,1163.18,103.17,0.1,03-11-2021
+1477,79,Rohit Verma,South,Services,5885.19,1244.95,0.19,11-12-2020
+1478,1,Sneha Patel,South,Furniture,7265.89,1294.55,0.06,06-01-2022
+1479,18,Sneha Patel,West,Software,4730.9,969.61,0.1,10-08-2020
+1480,23,Neha Kapoor,North,Office Supplies,8657.78,675.31,0.11,23-06-2021
+1481,94,Ananya Gupta,North,Electronics,8571.08,1511.3,0.16,31-03-2023
+1482,52,Neha Kapoor,South,Electronics,5740.14,910.93,0.2,24-08-2022
+1483,84,Arjun Mehta,East,Software,2621.41,535.89,0.15,18-08-2021
+1484,18,Simran Kaur,North,Software,3956.72,206.22,0.05,09-07-2024
+1485,79,Arjun Mehta,South,Software,2012.61,328.6,0.11,21-11-2024
+1486,19,Simran Kaur,East,Electronics,2578.78,380.44,0.01,26-01-2022
+1487,30,Rahul Sharma,South,Services,9123.4,1115.34,0.09,20-07-2022
+1488,6,Rahul Sharma,East,Electronics,7185.49,1108.54,0.17,05-09-2024
+1489,95,Rohit Verma,South,Software,6709.92,825.72,0.13,07-09-2024
+1490,10,Amit Bansal,East,Software,9740.4,921.25,0.08,31-07-2024
+1491,45,Simran Kaur,West,Services,562.68,127.39,0.09,16-04-2021
+1492,10,Amit Bansal,East,Furniture,1927.28,157.02,0.12,31-07-2024
+1493,16,Priya Singh,West,Office Supplies,7342.43,1074.22,0.1,07-03-2021
+1494,76,Arjun Mehta,West,Electronics,2814.87,212.74,0.12,02-10-2020
+1495,81,Amit Bansal,North,Services,1895.22,157.81,0.18,24-11-2022
+1496,52,Neha Kapoor,North,Office Supplies,9498.91,886.43,0.12,23-08-2022
+1497,62,Arjun Mehta,South,Software,6207.97,1296.99,0.16,07-01-2021
+1498,80,Amit Bansal,East,Furniture,7379.77,874.76,0.09,24-04-2023
+1499,9,Priya Singh,West,Software,1756.03,93.62,0.1,29-10-2022
+1500,88,Karan Jain,South,Services,1414.84,205.4,0.12,20-03-2020
+1501,69,Amit Bansal,North,Electronics,5081.29,386.51,0.12,21-08-2024
+1502,1,Karan Jain,West,Office Supplies,8810.83,1669.9,0.09,01-07-2024
+1503,62,Karan Jain,East,Services,8143.9,1885.9,0.17,25-03-2023
+1504,13,Karan Jain,South,Office Supplies,5032.84,485.68,0.17,03-08-2021
+1505,77,Amit Bansal,West,Office Supplies,2295.7,440.38,0.16,29-03-2023
+1506,67,Ananya Gupta,North,Software,6718.19,1260.02,0.06,11-01-2022
+1507,14,Arjun Mehta,West,Services,2909.51,642.99,0.08,18-01-2022
+1508,79,Rohit Verma,West,Furniture,4425.67,915.04,0.1,28-01-2022
+1509,72,Amit Bansal,West,Office Supplies,9890.83,1637.23,0.15,26-03-2022
+1510,95,Arjun Mehta,North,Furniture,4742.65,900.45,0.03,15-03-2021
+1511,66,Karan Jain,East,Services,6333.24,1183.76,0.01,07-03-2022
+1512,82,Rahul Sharma,North,Furniture,4980.85,846.99,0.02,22-06-2021
+1513,29,Sneha Patel,North,Services,858.68,108.94,0.2,11-06-2023
+1514,84,Amit Bansal,East,Services,1045.9,214.12,0.04,09-10-2022
+1515,57,Rahul Sharma,South,Services,3217.06,182.48,0.12,22-11-2022
+1516,90,Priya Singh,South,Electronics,3917.53,709.09,0.2,26-06-2020
+1517,36,Karan Jain,East,Software,4351.78,391.93,0,12-12-2023
+1518,9,Ananya Gupta,East,Services,9192.59,1099.61,0.19,20-07-2021
+1519,29,Neha Kapoor,South,Software,9332.28,1539.65,0.05,13-04-2022
+1520,65,Ananya Gupta,North,Services,3295.39,788.93,0.16,11-06-2021
+1521,69,Neha Kapoor,East,Software,9677.53,1573.89,0.15,31-03-2024
+1522,44,Simran Kaur,West,Services,8689.22,1272.05,0.05,22-02-2022
+1523,82,Priya Singh,South,Office Supplies,4418.05,532.9,0.11,06-12-2023
+1524,34,Priya Singh,East,Electronics,4289.84,856.93,0.07,09-02-2023
+1525,23,Simran Kaur,East,Office Supplies,2576.38,424.44,0.04,08-03-2024
+1526,88,Priya Singh,West,Furniture,2731.18,268.78,0.05,14-04-2021
+1527,26,Priya Singh,East,Furniture,7899.92,584.4,0.02,20-09-2023
+1528,64,Neha Kapoor,North,Services,9600.93,2108.38,0.07,07-10-2021
+1529,64,Neha Kapoor,East,Software,2237.28,453.84,0.1,25-03-2022
+1530,29,Neha Kapoor,South,Electronics,5494.49,739.75,0.19,07-03-2020
+1531,65,Sneha Patel,West,Furniture,4843.36,358.77,0.1,08-10-2021
+1532,89,Rahul Sharma,North,Furniture,4104.57,287.93,0.07,31-10-2024
+1533,34,Arjun Mehta,East,Furniture,3059.38,739.47,0.07,11-01-2021
+1534,64,Karan Jain,South,Software,7156.77,890.75,0.17,26-07-2021
+1535,58,Arjun Mehta,South,Services,7017.11,1493.51,0.14,04-07-2024
+1536,31,Amit Bansal,West,Software,2362.6,496.16,0.15,26-08-2022
+1537,2,Arjun Mehta,West,Software,1777.48,406.43,0.13,29-12-2022
+1538,93,Sneha Patel,West,Office Supplies,2884.25,639.44,0.01,21-07-2020
+1539,89,Arjun Mehta,North,Furniture,8231.27,1196.07,0.13,10-07-2022
+1540,96,Sneha Patel,East,Office Supplies,3922.91,633.54,0.16,05-12-2021
+1541,3,Karan Jain,North,Office Supplies,8740,2120.53,0.04,25-03-2023
+1542,84,Amit Bansal,South,Office Supplies,3873.54,715.2,0.1,17-02-2024
+1543,58,Ananya Gupta,West,Services,3221.97,568.17,0.03,09-12-2020
+1544,82,Sneha Patel,West,Services,5930.56,1303.42,0.01,27-11-2020
+1545,44,Priya Singh,East,Office Supplies,6703.62,1287.68,0.12,20-03-2022
+1546,35,Simran Kaur,East,Services,5448.89,763.16,0.03,15-10-2024
+1547,3,Arjun Mehta,South,Office Supplies,9434.15,1793.8,0.02,07-12-2020
+1548,51,Ananya Gupta,North,Electronics,9399.54,1359.52,0.01,27-04-2024
+1549,51,Amit Bansal,North,Electronics,2993.3,242.62,0.13,18-12-2024
+1550,50,Rohit Verma,South,Furniture,7507.14,1040.73,0.03,14-12-2022
+1551,22,Rahul Sharma,North,Office Supplies,8673.5,997.8,0.1,18-11-2024
+1552,70,Rohit Verma,West,Furniture,9710.65,1840.41,0.04,08-05-2023
+1553,59,Neha Kapoor,West,Services,6577.97,1031.14,0.18,13-09-2022
+1554,70,Priya Singh,North,Software,3424.75,453.58,0.03,22-01-2020
+1555,1,Amit Bansal,South,Office Supplies,3224.24,506.27,0.14,04-10-2022
+1556,97,Simran Kaur,East,Electronics,7775.76,1629.74,0.12,19-06-2024
+1557,1,Amit Bansal,East,Furniture,4411.49,715.15,0.08,30-11-2020
+1558,92,Karan Jain,West,Furniture,2998.31,403.12,0.05,14-04-2024
+1559,79,Rohit Verma,East,Services,8183.68,1085,0.17,08-01-2021
+1560,18,Rohit Verma,North,Software,6368.43,665.03,0.12,19-01-2021
+1561,42,Rahul Sharma,South,Electronics,9712.3,528.6,0.19,31-07-2021
+1562,35,Arjun Mehta,West,Electronics,2711.7,217.31,0.1,01-12-2021
+1563,54,Rohit Verma,West,Office Supplies,4905,1021.64,0.07,23-09-2024
+1564,97,Arjun Mehta,North,Office Supplies,7868.7,505.78,0.09,28-01-2021
+1565,33,Karan Jain,North,Electronics,9758.69,1882.81,0.08,26-06-2022
+1566,32,Rahul Sharma,South,Software,7485.57,514.95,0.13,02-03-2021
+1567,61,Karan Jain,East,Office Supplies,2006.81,392.63,0.15,30-01-2023
+1568,67,Ananya Gupta,East,Software,6565.94,589.26,0.18,03-11-2024
+1569,86,Priya Singh,North,Furniture,6512.64,748.32,0.03,19-07-2021
+1570,75,Ananya Gupta,West,Furniture,584.83,34.15,0.16,31-08-2022
+1571,89,Neha Kapoor,South,Office Supplies,7822.57,780.26,0.1,05-11-2023
+1572,80,Sneha Patel,North,Electronics,3877.42,313.23,0.11,07-08-2020
+1573,17,Simran Kaur,South,Office Supplies,9825.92,2040.97,0.15,07-07-2024
+1574,57,Priya Singh,North,Software,3902.59,300.29,0.18,20-09-2022
+1575,91,Simran Kaur,East,Services,7121.86,626.4,0.04,13-12-2021
+1576,42,Simran Kaur,East,Services,9187.5,1478.31,0.01,13-11-2020
+1577,58,Rohit Verma,East,Services,3987.57,199.95,0.13,15-02-2022
+1578,94,Arjun Mehta,North,Services,8639.88,1772.93,0.05,16-01-2024
+1579,9,Amit Bansal,West,Furniture,5478.66,819.11,0.11,09-06-2023
+1580,37,Sneha Patel,West,Office Supplies,1549.41,239.6,0.01,06-09-2024
+1581,17,Arjun Mehta,North,Furniture,1517.02,133.99,0.01,07-08-2023
+1582,50,Simran Kaur,East,Electronics,3980.36,681.4,0.01,03-03-2021
+1583,84,Simran Kaur,North,Software,8109.69,503.94,0.11,28-12-2024
+1584,54,Sneha Patel,North,Services,3025.25,175.86,0.01,14-09-2021
+1585,10,Priya Singh,North,Electronics,7389.13,1155.16,0.04,13-12-2022
+1586,85,Priya Singh,South,Services,7617.35,1013.39,0.02,31-07-2023
+1587,74,Sneha Patel,West,Software,8886.83,740.82,0.04,02-04-2022
+1588,65,Sneha Patel,South,Services,9985.12,1383.96,0.07,07-10-2021
+1589,71,Sneha Patel,East,Software,7759.75,1056.24,0.15,31-05-2023
+1590,31,Neha Kapoor,South,Software,7774.23,1828.73,0.05,15-07-2022
+1591,58,Karan Jain,North,Electronics,9838.09,1664.14,0.1,28-12-2024
+1592,39,Rahul Sharma,East,Furniture,2540.82,287.06,0.15,13-11-2023
+1593,36,Amit Bansal,South,Electronics,858.49,103.99,0.03,21-01-2022
+1594,75,Priya Singh,South,Office Supplies,8205.21,561.08,0.08,21-03-2021
+1595,94,Ananya Gupta,East,Software,2142.57,460.95,0.14,26-03-2023
+1596,13,Neha Kapoor,East,Electronics,7442.5,1229.92,0.02,24-04-2020
+1597,99,Sneha Patel,East,Software,4456.96,996.43,0.17,09-04-2021
+1598,96,Neha Kapoor,North,Software,1014.22,157.08,0.06,02-03-2023
+1599,20,Sneha Patel,South,Furniture,979.94,192.38,0.08,01-07-2022
+1600,97,Neha Kapoor,North,Furniture,4603.39,954.16,0.03,19-11-2021
+1601,11,Simran Kaur,North,Services,4292.32,287.65,0.1,03-05-2024
+1602,90,Arjun Mehta,South,Software,5813.31,857.88,0.13,05-02-2021
+1603,72,Neha Kapoor,South,Furniture,1180.62,242.45,0.06,25-03-2023
+1604,12,Ananya Gupta,West,Software,3970.04,349.75,0.07,04-09-2023
+1605,4,Rohit Verma,South,Office Supplies,6354.1,1576.02,0.09,25-10-2020
+1606,57,Rahul Sharma,South,Furniture,7010.91,569.27,0.15,24-06-2020
+1607,15,Rahul Sharma,South,Services,9303.93,2081.76,0.16,29-01-2020
+1608,44,Ananya Gupta,East,Software,4976.31,579.12,0.15,09-03-2021
+1609,27,Amit Bansal,East,Services,5088.75,997.32,0.03,02-12-2023
+1610,86,Rahul Sharma,West,Services,9107.38,1414.92,0.05,03-05-2020
+1611,37,Priya Singh,East,Electronics,4917.13,1175.37,0.01,14-09-2023
+1612,35,Sneha Patel,North,Electronics,3278.71,743.22,0.08,18-02-2022
+1613,66,Ananya Gupta,East,Software,8734.34,1365.28,0.04,22-10-2022
+1614,59,Amit Bansal,North,Electronics,2850.23,444.3,0.07,16-03-2022
+1615,96,Arjun Mehta,North,Office Supplies,7000.96,847.65,0.06,23-10-2022
+1616,36,Rahul Sharma,East,Software,8958.82,1907.98,0.01,10-02-2023
+1617,36,Priya Singh,South,Office Supplies,9023.17,1636.68,0.02,21-02-2022
+1618,67,Neha Kapoor,South,Software,2783.43,224.2,0.19,24-05-2023
+1619,43,Simran Kaur,South,Furniture,6698.49,1113.33,0.14,18-02-2021
+1620,18,Rohit Verma,South,Software,9959.02,2441.51,0.03,02-03-2023
+1621,21,Sneha Patel,North,Services,5563.13,1078.62,0.04,15-09-2024
+1622,19,Rahul Sharma,East,Software,9631.36,1065.9,0.15,09-08-2024
+1623,82,Rohit Verma,South,Furniture,1514.33,131.67,0.15,07-06-2023
+1624,79,Rohit Verma,South,Services,2705.73,507.26,0.07,10-11-2023
+1625,100,Simran Kaur,South,Services,8538.31,1227.41,0.13,11-01-2021
+1626,50,Simran Kaur,West,Furniture,2055.97,195.84,0.08,31-01-2020
+1627,35,Karan Jain,South,Furniture,7698.88,486.78,0.19,18-06-2022
+1628,79,Simran Kaur,East,Software,8932.08,1210.4,0.16,30-05-2023
+1629,95,Karan Jain,East,Software,6309.3,1252.36,0.12,11-12-2022
+1630,83,Rahul Sharma,North,Software,4840.55,1091.8,0.18,18-05-2021
+1631,67,Amit Bansal,West,Electronics,5798.16,888.43,0.13,10-04-2020
+1632,25,Rohit Verma,West,Software,8901.78,1822.51,0.06,06-12-2020
+1633,55,Rohit Verma,North,Services,9084.92,1296.56,0.13,04-07-2020
+1634,93,Amit Bansal,North,Furniture,7897.95,1876.3,0.14,04-10-2020
+1635,51,Karan Jain,East,Software,736.67,103.68,0.18,17-02-2021
+1636,59,Ananya Gupta,East,Office Supplies,7071.32,1636.53,0.16,11-01-2024
+1637,94,Ananya Gupta,North,Electronics,7209.15,1274.68,0.02,19-12-2023
+1638,50,Amit Bansal,South,Software,5728.29,336.72,0.03,17-11-2021
+1639,73,Arjun Mehta,South,Furniture,2199.23,423.15,0.08,25-09-2021
+1640,94,Simran Kaur,East,Furniture,1616.76,123.38,0.04,29-06-2023
+1641,98,Rohit Verma,North,Software,5227.46,782.7,0.16,30-05-2023
+1642,64,Priya Singh,South,Services,6764.97,952.15,0.09,16-05-2023
+1643,77,Rahul Sharma,South,Services,3142.07,552.15,0.16,01-03-2021
+1644,7,Arjun Mehta,South,Electronics,6706.13,384.56,0.17,28-09-2023
+1645,74,Neha Kapoor,East,Office Supplies,9243.65,552.83,0.08,31-12-2020
+1646,21,Rohit Verma,South,Software,7618.68,929.77,0.01,22-04-2024
+1647,39,Sneha Patel,East,Software,8292.52,1672.51,0.17,12-05-2020
+1648,38,Simran Kaur,South,Electronics,7098.88,744.56,0.11,10-12-2022
+1649,27,Priya Singh,North,Electronics,5927.99,1457.51,0.11,28-06-2020
+1650,62,Neha Kapoor,East,Software,6284.02,711.97,0.11,30-06-2023
+1651,46,Arjun Mehta,West,Services,7427.26,1110.73,0.16,14-12-2024
+1652,79,Priya Singh,East,Furniture,515.02,28.22,0.13,29-08-2020
+1653,95,Priya Singh,West,Software,932.18,111.8,0.16,10-03-2021
+1654,2,Priya Singh,East,Office Supplies,8006.86,893.2,0.1,25-10-2021
+1655,99,Rahul Sharma,North,Office Supplies,3742.94,729.42,0.12,29-02-2020
+1656,23,Priya Singh,East,Office Supplies,9261.66,1350.55,0.09,13-03-2020
+1657,83,Arjun Mehta,West,Furniture,6458.4,1475.17,0.11,17-11-2021
+1658,60,Karan Jain,North,Services,3343.77,652.01,0.06,02-01-2023
+1659,3,Priya Singh,East,Office Supplies,1129.02,90.16,0.17,25-11-2021
+1660,49,Amit Bansal,South,Services,6254.05,547.08,0.02,21-05-2024
+1661,97,Rohit Verma,East,Electronics,3079.23,207.42,0.18,31-01-2022
+1662,58,Rohit Verma,South,Services,3372.02,244.29,0.16,11-05-2024
+1663,26,Ananya Gupta,West,Services,736.88,107.98,0.1,24-01-2021
+1664,44,Simran Kaur,East,Office Supplies,1861.3,417.6,0.16,23-11-2022
+1665,87,Arjun Mehta,South,Electronics,4864,937.47,0.1,09-01-2020
+1666,40,Rahul Sharma,North,Office Supplies,4935.32,292.31,0.1,11-09-2023
+1667,96,Rohit Verma,North,Services,7705.69,1369.84,0.04,14-02-2021
+1668,25,Rohit Verma,East,Services,3531.92,488.19,0.02,01-11-2020
+1669,21,Rohit Verma,North,Electronics,9603.83,1555.1,0.02,16-01-2023
+1670,45,Amit Bansal,East,Office Supplies,1844.79,352.12,0.06,16-05-2021
+1671,22,Ananya Gupta,East,Services,8976.31,1419.29,0.01,29-02-2020
+1672,61,Rahul Sharma,North,Software,1011.1,136.79,0.04,05-05-2023
+1673,76,Simran Kaur,East,Office Supplies,3657.15,327.79,0.15,15-07-2024
+1674,69,Ananya Gupta,West,Services,1752.06,372.44,0.18,17-08-2022
+1675,13,Simran Kaur,East,Software,4970.19,1190.31,0.03,17-06-2023
+1676,34,Sneha Patel,West,Furniture,7146.34,1308.04,0.16,12-12-2024
+1677,42,Simran Kaur,West,Electronics,1120.97,81.36,0.1,28-09-2024
+1678,22,Rohit Verma,East,Services,5959.44,903.39,0.08,02-01-2024
+1679,14,Sneha Patel,North,Office Supplies,5561.08,723.85,0.08,25-06-2023
+1680,32,Amit Bansal,South,Software,4146.26,489.85,0.16,25-04-2023
+1681,56,Karan Jain,East,Services,7094.26,600.3,0.13,23-02-2024
+1682,92,Neha Kapoor,West,Electronics,6125.55,873.39,0.11,10-08-2024
+1683,57,Arjun Mehta,East,Software,1161.27,83.32,0.16,28-04-2024
+1684,49,Sneha Patel,West,Electronics,1360.06,290.25,0.18,26-03-2024
+1685,82,Rahul Sharma,South,Furniture,4803.26,520.2,0.12,04-07-2022
+1686,26,Priya Singh,East,Office Supplies,5917.63,1376.68,0.06,09-06-2022
+1687,92,Sneha Patel,North,Services,577.13,142.72,0.08,18-09-2020
+1688,38,Rahul Sharma,East,Services,9695.05,486.39,0.11,05-01-2022
+1689,15,Rohit Verma,North,Furniture,4601.3,773.17,0.13,28-12-2023
+1690,49,Karan Jain,West,Software,5678.63,1036.34,0.09,20-01-2021
+1691,72,Karan Jain,East,Software,1965.54,490.38,0.13,02-10-2020
+1692,2,Ananya Gupta,North,Furniture,7352.72,1083.35,0.09,05-10-2020
+1693,11,Arjun Mehta,West,Software,8989.03,1699.63,0.19,30-06-2023
+1694,24,Simran Kaur,West,Services,8290.68,1052.44,0.05,19-05-2022
+1695,78,Rahul Sharma,West,Furniture,7265.23,754.49,0.19,26-03-2023
+1696,47,Rahul Sharma,North,Services,5091.05,629.84,0.12,15-11-2023
+1697,11,Arjun Mehta,East,Software,5411.02,836.93,0.12,17-05-2021
+1698,61,Ananya Gupta,East,Services,1001.36,118.87,0.16,18-08-2022
+1699,59,Amit Bansal,West,Services,7471.24,1002.66,0.19,22-06-2024
+1700,38,Rohit Verma,South,Electronics,7102.99,1204.15,0.06,26-05-2024
+1701,73,Rohit Verma,North,Software,5992.34,986.17,0.13,20-08-2021
+1702,95,Neha Kapoor,North,Office Supplies,5105.22,384.75,0.02,24-05-2024
+1703,36,Rohit Verma,South,Services,3169.23,702.21,0,16-08-2020
+1704,78,Arjun Mehta,South,Software,4012.78,341.41,0.16,28-04-2021
+1705,63,Arjun Mehta,North,Office Supplies,9848.68,2397.85,0.12,09-08-2024
+1706,20,Simran Kaur,West,Software,2760.5,381.05,0.13,07-03-2021
+1707,74,Sneha Patel,North,Office Supplies,7677.1,561.96,0.03,27-03-2022
+1708,61,Rohit Verma,West,Services,2719.78,507.79,0.08,21-06-2021
+1709,19,Amit Bansal,West,Electronics,3243.53,679.4,0.08,08-10-2021
+1710,68,Rahul Sharma,North,Services,6555.53,1581.43,0.09,28-08-2023
+1711,35,Sneha Patel,East,Office Supplies,8122.01,820.88,0.12,02-08-2022
+1712,99,Priya Singh,South,Services,3705.36,696.81,0.04,26-01-2023
+1713,2,Rahul Sharma,North,Electronics,4406.86,683.3,0.14,20-12-2021
+1714,29,Rohit Verma,East,Furniture,823.4,143.17,0.01,01-05-2023
+1715,85,Priya Singh,North,Electronics,1320.67,225.75,0.08,13-04-2024
+1716,83,Neha Kapoor,South,Electronics,7108.71,715.61,0.09,04-06-2020
+1717,82,Simran Kaur,East,Software,7076.1,1298.58,0.15,11-06-2021
+1718,21,Ananya Gupta,East,Electronics,4136.59,482.04,0.01,22-07-2024
+1719,34,Arjun Mehta,West,Electronics,5171.36,1218.98,0.12,31-12-2020
+1720,83,Simran Kaur,North,Furniture,5636.01,767.91,0.12,05-08-2020
+1721,57,Rohit Verma,North,Electronics,1192.74,195.93,0.05,02-07-2022
+1722,3,Simran Kaur,South,Electronics,9362.49,1712.6,0.05,04-12-2023
+1723,43,Karan Jain,North,Services,7222.25,1474.77,0.1,07-04-2022
+1724,94,Ananya Gupta,South,Electronics,4152.03,779.97,0.16,05-09-2020
+1725,73,Amit Bansal,East,Office Supplies,6977.44,907.93,0.13,18-08-2023
+1726,12,Sneha Patel,East,Electronics,8491.23,1716,0.06,19-02-2021
+1727,23,Amit Bansal,North,Software,6776.97,743.94,0.08,06-08-2020
+1728,81,Sneha Patel,West,Electronics,8909.53,1225.92,0.04,14-03-2020
+1729,25,Rahul Sharma,South,Software,4193.29,874.5,0.13,20-10-2022
+1730,69,Simran Kaur,North,Electronics,3723.21,437.64,0.14,10-04-2022
+1731,16,Priya Singh,West,Services,1915.06,317.65,0.18,16-03-2020
+1732,95,Arjun Mehta,West,Electronics,4976.59,1162.55,0.01,07-12-2023
+1733,84,Arjun Mehta,North,Furniture,6510.28,1503.44,0.16,18-07-2020
+1734,59,Neha Kapoor,South,Services,1107.6,236.47,0.02,03-05-2023
+1735,79,Priya Singh,North,Furniture,4549.01,965.77,0.2,21-10-2023
+1736,52,Sneha Patel,North,Services,5685.91,650,0.19,12-03-2021
+1737,98,Rahul Sharma,South,Office Supplies,1100.61,115.32,0.15,10-12-2020
+1738,90,Sneha Patel,South,Software,2814.62,468.34,0.03,08-06-2024
+1739,81,Neha Kapoor,West,Furniture,648.49,95.58,0,02-01-2021
+1740,12,Neha Kapoor,East,Software,7088.28,1477.54,0.1,16-09-2020
+1741,27,Arjun Mehta,East,Services,4778.98,467.63,0.03,17-11-2023
+1742,5,Neha Kapoor,South,Software,6314.47,426.88,0.17,08-09-2021
+1743,45,Karan Jain,North,Services,2738.57,201.29,0.11,14-07-2020
+1744,80,Sneha Patel,South,Software,7818.15,1421.85,0.06,31-01-2021
+1745,15,Arjun Mehta,West,Software,2175.08,400.28,0.01,13-08-2023
+1746,47,Rohit Verma,South,Software,2888.13,500.7,0.18,17-07-2022
+1747,6,Ananya Gupta,North,Services,2170.93,449.6,0.1,25-08-2020
+1748,10,Priya Singh,West,Services,6007.74,803.92,0.15,29-10-2021
+1749,30,Ananya Gupta,East,Furniture,1431.61,282.81,0.17,08-02-2022
+1750,29,Ananya Gupta,West,Services,5101.87,1163.73,0.03,02-06-2023
+1751,59,Arjun Mehta,West,Office Supplies,1795.84,348.33,0.13,06-07-2021
+1752,26,Sneha Patel,South,Electronics,7076,438.22,0.03,10-10-2024
+1753,60,Simran Kaur,West,Furniture,7723.23,725.76,0.06,17-11-2020
+1754,82,Neha Kapoor,South,Services,9716.29,2147.31,0.02,21-10-2024
+1755,67,Simran Kaur,South,Services,4998.15,712.5,0,26-05-2022
+1756,95,Priya Singh,South,Office Supplies,4625.36,437.01,0.19,01-11-2020
+1757,74,Rahul Sharma,West,Electronics,880.56,126.92,0.15,09-03-2020
+1758,55,Amit Bansal,West,Software,8192.31,1551.06,0.02,11-10-2022
+1759,31,Ananya Gupta,North,Software,9524.37,729.02,0.06,19-08-2023
+1760,12,Rahul Sharma,West,Office Supplies,2037.13,288.98,0.11,10-04-2023
+1761,4,Simran Kaur,West,Furniture,8804.89,1154.08,0.16,28-01-2022
+1762,81,Simran Kaur,North,Electronics,4156.35,782.02,0.11,30-08-2021
+1763,55,Rohit Verma,South,Electronics,6394.32,749.02,0.19,20-11-2022
+1764,87,Sneha Patel,North,Electronics,4138.07,592.04,0.01,20-01-2022
+1765,23,Amit Bansal,North,Services,7238.7,658.31,0.2,03-05-2021
+1766,70,Ananya Gupta,West,Services,8775.75,1672.38,0.15,07-04-2024
+1767,29,Sneha Patel,East,Office Supplies,5283.88,711.14,0.01,02-02-2022
+1768,45,Simran Kaur,West,Services,5503.48,410.24,0.14,21-10-2023
+1769,69,Rohit Verma,West,Services,3997.39,738.16,0.14,13-12-2024
+1770,9,Priya Singh,West,Electronics,1261.62,289.65,0.06,06-06-2020
+1771,14,Arjun Mehta,East,Electronics,7122.28,1063.11,0.17,02-12-2022
+1772,81,Rahul Sharma,East,Software,9710.96,1537.12,0.03,11-12-2021
+1773,54,Simran Kaur,North,Office Supplies,2296.08,124.92,0.16,05-09-2024
+1774,67,Sneha Patel,West,Services,3756.53,673.21,0.07,30-04-2023
+1775,86,Amit Bansal,West,Software,3388.78,258.87,0.16,17-12-2020
+1776,34,Priya Singh,West,Office Supplies,9721.88,1982.78,0.01,24-12-2021
+1777,37,Simran Kaur,South,Services,9279.25,1784.98,0.06,25-12-2020
+1778,91,Arjun Mehta,South,Furniture,1610.71,400.67,0.11,21-06-2022
+1779,34,Sneha Patel,South,Furniture,5843.63,332.72,0.06,05-12-2021
+1780,19,Sneha Patel,West,Services,9766.92,1530.76,0.02,21-02-2020
+1781,52,Simran Kaur,South,Software,9314.21,756.41,0.19,23-01-2023
+1782,65,Sneha Patel,East,Software,9011.79,2198.17,0.15,20-03-2023
+1783,86,Arjun Mehta,West,Office Supplies,7046.9,1383.5,0.18,12-10-2020
+1784,87,Amit Bansal,North,Office Supplies,735.56,127.62,0.04,01-01-2022
+1785,12,Sneha Patel,North,Services,6592.47,1098.87,0.04,20-04-2024
+1786,36,Priya Singh,North,Electronics,5614.92,780.99,0.13,27-06-2020
+1787,66,Karan Jain,South,Software,3518.7,601.75,0.19,27-09-2023
+1788,47,Karan Jain,South,Software,4011.48,499.69,0.06,20-12-2021
+1789,40,Simran Kaur,North,Furniture,7414.61,1029.47,0.2,03-07-2024
+1790,57,Rohit Verma,South,Software,7421.75,985.9,0.17,09-05-2023
+1791,12,Arjun Mehta,South,Office Supplies,5008.82,1119.5,0.2,15-05-2020
+1792,76,Karan Jain,North,Electronics,4389.88,1022.32,0.08,12-02-2023
+1793,60,Neha Kapoor,South,Furniture,2267.06,286.45,0.11,27-03-2020
+1794,39,Neha Kapoor,East,Software,5813.17,829.48,0.01,06-01-2020
+1795,20,Rohit Verma,East,Software,1679.68,307.69,0.06,02-01-2021
+1796,63,Priya Singh,North,Electronics,7764.82,1153.93,0.19,11-05-2023
+1797,96,Sneha Patel,West,Services,4642.65,471.61,0.14,22-11-2023
+1798,16,Sneha Patel,North,Office Supplies,2047.05,126.31,0.06,03-12-2024
+1799,89,Arjun Mehta,East,Furniture,1002.44,122.53,0.13,30-12-2021
+1800,7,Rohit Verma,East,Services,6569.99,429.45,0.04,10-07-2023
+1801,24,Ananya Gupta,South,Services,3564.77,403.68,0.17,26-06-2024
+1802,39,Rohit Verma,East,Electronics,5576.99,671.06,0.03,07-10-2020
+1803,67,Rohit Verma,East,Software,4413.95,1033.67,0.03,22-03-2021
+1804,20,Amit Bansal,South,Furniture,8053.51,1302.5,0.14,12-12-2022
+1805,69,Amit Bansal,North,Software,4874.67,318.22,0.16,05-02-2020
+1806,62,Sneha Patel,East,Office Supplies,1820.63,251.95,0.2,07-12-2022
+1807,98,Sneha Patel,South,Office Supplies,773.22,164.63,0.04,20-10-2024
+1808,89,Arjun Mehta,South,Office Supplies,1690.77,128.57,0.02,15-11-2023
+1809,98,Ananya Gupta,North,Electronics,7859.58,1583.44,0.01,08-08-2020
+1810,5,Amit Bansal,North,Software,1629.76,163.96,0.01,29-09-2023
+1811,2,Ananya Gupta,North,Services,2451.31,564.38,0.04,20-12-2021
+1812,4,Ananya Gupta,South,Office Supplies,9513.52,1137.51,0.03,22-10-2022
+1813,100,Neha Kapoor,South,Services,5917.24,413.15,0.12,29-01-2020
+1814,68,Priya Singh,South,Office Supplies,2131.85,428.08,0,25-01-2024
+1815,13,Priya Singh,West,Office Supplies,7132.26,620.69,0.13,07-08-2020
+1816,24,Sneha Patel,West,Software,2535.6,242.18,0.02,05-10-2021
+1817,16,Simran Kaur,North,Services,1791.17,362.63,0.14,15-02-2023
+1818,93,Rahul Sharma,North,Office Supplies,5190.27,658.94,0.09,16-02-2024
+1819,40,Simran Kaur,South,Services,4369.18,1079.15,0.09,20-10-2024
+1820,9,Simran Kaur,East,Furniture,621.47,114.87,0.13,22-03-2022
+1821,57,Amit Bansal,North,Electronics,1861.99,242.29,0.12,27-07-2020
+1822,95,Arjun Mehta,North,Office Supplies,9764.47,1149.54,0.12,07-04-2022
+1823,16,Priya Singh,West,Software,3145.92,606.21,0.12,13-07-2021
+1824,97,Karan Jain,East,Software,6833.43,1640.21,0.2,13-11-2022
+1825,36,Arjun Mehta,West,Electronics,1660.81,245.58,0.05,02-10-2020
+1826,4,Ananya Gupta,North,Electronics,5232.28,289.61,0.04,23-05-2023
+1827,87,Sneha Patel,South,Office Supplies,6408.68,443.91,0.02,19-03-2024
+1828,67,Simran Kaur,West,Furniture,3288.85,491.95,0.1,15-01-2023
+1829,44,Amit Bansal,North,Electronics,9911.76,2240.31,0.02,10-07-2022
+1830,41,Karan Jain,West,Software,841.82,71.87,0.13,15-05-2024
+1831,39,Arjun Mehta,West,Software,1777.64,343.34,0.1,12-08-2020
+1832,73,Simran Kaur,West,Software,5841.43,474.69,0.01,23-06-2021
+1833,64,Neha Kapoor,West,Services,6926.63,1408.14,0.06,05-05-2020
+1834,4,Neha Kapoor,North,Furniture,8450.87,1012.21,0.15,25-02-2020
+1835,98,Sneha Patel,West,Electronics,4567.41,1134.49,0.08,25-04-2020
+1836,85,Priya Singh,South,Furniture,6656.79,1121.71,0.18,14-05-2020
+1837,40,Ananya Gupta,East,Furniture,687.26,79.19,0.09,03-11-2024
+1838,55,Neha Kapoor,West,Office Supplies,693.82,99.87,0,10-10-2021
+1839,49,Neha Kapoor,West,Office Supplies,5939.12,1257.11,0.02,14-10-2023
+1840,27,Sneha Patel,West,Services,8208.84,1506.14,0.03,05-09-2021
+1841,47,Karan Jain,South,Software,6536.72,1600.33,0.02,07-10-2024
+1842,69,Priya Singh,East,Office Supplies,951.55,237.17,0.08,07-04-2021
+1843,80,Ananya Gupta,North,Services,3699.96,234.78,0.16,31-08-2022
+1844,55,Priya Singh,East,Electronics,6689.6,738.33,0.16,05-06-2022
+1845,85,Amit Bansal,East,Furniture,4435.99,444.72,0.1,07-10-2023
+1846,98,Amit Bansal,South,Electronics,6464.52,990.65,0.04,19-10-2022
+1847,28,Simran Kaur,East,Services,8184.87,1805.21,0.18,05-03-2023
+1848,94,Rahul Sharma,South,Office Supplies,4893.62,479.94,0.15,16-04-2024
+1849,39,Karan Jain,West,Office Supplies,8671.77,2013.82,0.13,28-09-2024
+1850,53,Rohit Verma,East,Furniture,2936.24,499.88,0.08,20-08-2020
+1851,20,Priya Singh,North,Furniture,8071.93,904.93,0.1,12-06-2022
+1852,55,Rahul Sharma,South,Furniture,3090.76,172.55,0.16,22-07-2021
+1853,85,Amit Bansal,South,Electronics,9655.98,1421.06,0,26-10-2024
+1854,11,Sneha Patel,East,Electronics,9055.46,1189.9,0.07,08-09-2023
+1855,12,Karan Jain,South,Furniture,1563.36,307.82,0.19,04-12-2022
+1856,86,Neha Kapoor,East,Software,8903.37,869.11,0.02,10-07-2024
+1857,41,Sneha Patel,West,Furniture,9387.25,878.66,0.02,14-03-2021
+1858,36,Simran Kaur,West,Office Supplies,8697.55,532.16,0.11,03-12-2023
+1859,15,Sneha Patel,West,Software,6986.02,1695.25,0.18,23-10-2020
+1860,47,Simran Kaur,East,Office Supplies,700.2,170.4,0.12,19-09-2024
+1861,95,Rahul Sharma,South,Office Supplies,5750.92,643.26,0.19,13-01-2022
+1862,88,Ananya Gupta,South,Software,4190.47,972.01,0.08,07-06-2021
+1863,39,Ananya Gupta,South,Office Supplies,2498.67,569.82,0.18,17-07-2023
+1864,41,Karan Jain,North,Office Supplies,8731.22,1874.07,0.19,22-08-2022
+1865,95,Karan Jain,East,Software,8829.23,1889.88,0.16,01-12-2023
+1866,34,Amit Bansal,North,Office Supplies,4498.27,880.97,0.11,31-10-2021
+1867,59,Rahul Sharma,North,Furniture,6486.49,1350.51,0.03,31-03-2022
+1868,26,Rohit Verma,East,Services,1281.2,104.5,0.1,21-04-2024
+1869,84,Arjun Mehta,West,Office Supplies,4789.15,1076.13,0.03,21-12-2020
+1870,88,Neha Kapoor,East,Office Supplies,2387.31,317.27,0.04,29-11-2024
+1871,49,Neha Kapoor,South,Electronics,9507.04,2230.57,0.13,07-07-2023
+1872,30,Ananya Gupta,West,Furniture,2986.94,658.22,0.01,19-06-2023
+1873,55,Neha Kapoor,East,Furniture,1346.08,166.35,0.19,28-08-2020
+1874,2,Amit Bansal,West,Software,8358.95,1244.06,0.04,20-02-2021
+1875,25,Rohit Verma,East,Software,4129.7,562.72,0.04,17-03-2021
+1876,37,Priya Singh,West,Furniture,4380.98,346.92,0.06,20-06-2021
+1877,31,Neha Kapoor,West,Furniture,4011.56,749.57,0.09,22-01-2020
+1878,61,Arjun Mehta,East,Software,7025.1,1353.51,0.14,16-02-2024
+1879,77,Rohit Verma,North,Electronics,5791.5,349.94,0.19,22-08-2022
+1880,46,Neha Kapoor,North,Electronics,2909.74,506.1,0.06,19-03-2022
+1881,86,Sneha Patel,South,Services,890.69,76.49,0.03,06-10-2022
+1882,44,Simran Kaur,South,Electronics,3514.52,548.56,0.03,27-08-2020
+1883,41,Rahul Sharma,South,Software,8780.96,1905.12,0.15,30-05-2022
+1884,37,Rohit Verma,East,Services,3473.6,793.84,0.06,03-10-2022
+1885,98,Arjun Mehta,West,Electronics,2294.74,139.78,0.04,21-08-2022
+1886,34,Arjun Mehta,West,Software,1602.23,366.97,0.1,23-06-2022
+1887,46,Amit Bansal,West,Software,5183.39,1136.03,0.17,10-09-2020
+1888,45,Ananya Gupta,South,Office Supplies,2216.22,185.41,0.1,12-07-2021
+1889,73,Neha Kapoor,South,Services,9981.04,507.29,0.15,04-01-2021
+1890,54,Ananya Gupta,South,Software,6930.63,1576.53,0.01,27-10-2023
+1891,88,Ananya Gupta,West,Office Supplies,6108.22,1467.46,0.17,10-11-2020
+1892,4,Ananya Gupta,West,Software,4813.53,1160.25,0.12,12-01-2020
+1893,43,Rahul Sharma,West,Office Supplies,9500.47,2374.78,0.18,20-06-2024
+1894,73,Arjun Mehta,South,Electronics,8114.8,864.96,0.16,03-03-2024
+1895,10,Amit Bansal,West,Electronics,4289.16,367.16,0.19,07-11-2024
+1896,52,Ananya Gupta,North,Furniture,2047.94,421.67,0.06,21-03-2024
+1897,84,Arjun Mehta,North,Office Supplies,5163.03,704.61,0.16,27-09-2021
+1898,88,Neha Kapoor,South,Office Supplies,6822.44,1476.45,0.1,29-09-2022
+1899,58,Karan Jain,West,Office Supplies,5849.04,787.36,0.15,18-07-2024
+1900,48,Neha Kapoor,South,Software,6491.52,445.25,0.1,07-08-2022
+1901,87,Priya Singh,South,Software,5509.15,988.59,0.02,16-08-2022
+1902,56,Ananya Gupta,West,Office Supplies,1911.76,144.45,0.18,19-09-2024
+1903,32,Amit Bansal,West,Office Supplies,5901.09,945.35,0.18,17-11-2022
+1904,14,Amit Bansal,West,Software,1397.6,254.6,0.11,02-06-2021
+1905,46,Rohit Verma,North,Services,654.55,129.67,0.09,29-05-2024
+1906,24,Karan Jain,North,Electronics,4454.39,850.23,0.06,22-01-2024
+1907,59,Simran Kaur,East,Office Supplies,9683.84,2171.78,0.04,14-01-2021
+1908,11,Neha Kapoor,East,Electronics,4621.09,247.61,0.08,28-01-2020
+1909,22,Simran Kaur,West,Software,8753.41,2128.49,0.12,23-09-2022
+1910,39,Neha Kapoor,East,Software,8144.09,549.95,0.03,25-01-2021
+1911,15,Rahul Sharma,South,Electronics,2487.68,447.1,0.13,11-06-2022
+1912,81,Amit Bansal,South,Electronics,3358.72,479.24,0.09,14-02-2020
+1913,15,Arjun Mehta,South,Software,9656.74,1393.45,0.17,13-04-2023
+1914,32,Priya Singh,East,Services,8379.78,1075.52,0.07,29-07-2020
+1915,81,Karan Jain,West,Software,7502.24,1269.14,0.11,18-08-2021
+1916,5,Simran Kaur,West,Software,5376.88,1048.08,0.19,30-07-2024
+1917,63,Priya Singh,North,Services,680.69,112.5,0.11,02-07-2021
+1918,83,Karan Jain,West,Electronics,5200.49,1236.64,0.07,29-11-2023
+1919,56,Rahul Sharma,South,Office Supplies,7398.99,1064.33,0.09,05-11-2022
+1920,29,Neha Kapoor,East,Services,8607.81,1661.65,0.09,13-12-2024
+1921,38,Karan Jain,West,Office Supplies,8061.74,1692.57,0.17,27-06-2023
+1922,27,Rohit Verma,North,Software,1726.42,155.2,0.12,25-07-2020
+1923,54,Simran Kaur,East,Furniture,2489.61,147.91,0,09-12-2024
+1924,34,Sneha Patel,South,Furniture,8365.51,1914.79,0.01,10-05-2020
+1925,44,Karan Jain,North,Services,2653.56,430.93,0.1,27-11-2021
+1926,46,Rahul Sharma,East,Furniture,8607.38,1934.42,0.12,01-08-2020
+1927,91,Rahul Sharma,West,Software,9645.15,1940.15,0.19,19-05-2024
+1928,79,Neha Kapoor,North,Services,898.71,63.88,0.13,18-11-2024
+1929,27,Sneha Patel,South,Office Supplies,7227.55,1462.81,0.1,17-11-2024
+1930,13,Arjun Mehta,East,Office Supplies,8282.03,617.81,0.04,01-05-2022
+1931,99,Rahul Sharma,South,Software,3742.54,565.14,0.02,01-02-2022
+1932,92,Karan Jain,East,Furniture,1940.31,389.42,0.08,12-04-2021
+1933,18,Karan Jain,West,Software,9031.62,2170.91,0.1,29-10-2023
+1934,47,Rahul Sharma,West,Furniture,7816.44,1512.68,0.1,22-05-2020
+1935,11,Sneha Patel,East,Software,9828.48,814.44,0.01,03-04-2024
+1936,5,Arjun Mehta,North,Services,9740.28,1303.84,0.18,06-12-2023
+1937,71,Rohit Verma,East,Office Supplies,575.07,60.93,0.11,27-10-2020
+1938,90,Karan Jain,West,Furniture,8932.01,1561.96,0.12,24-06-2022
+1939,90,Sneha Patel,West,Furniture,8869.26,592.96,0.11,09-03-2022
+1940,93,Arjun Mehta,East,Furniture,1381.79,221.58,0.1,30-03-2024
+1941,82,Arjun Mehta,North,Electronics,8958.03,1415.25,0.05,31-08-2024
+1942,100,Rohit Verma,West,Services,1549.2,96.03,0.07,08-07-2023
+1943,65,Sneha Patel,North,Electronics,7687.32,1831.65,0.09,18-03-2023
+1944,95,Rahul Sharma,West,Office Supplies,9838.03,2076.59,0.2,04-03-2023
+1945,92,Amit Bansal,South,Office Supplies,3342.42,612.95,0.16,19-03-2023
+1946,87,Arjun Mehta,West,Services,7506.37,533.29,0.1,29-01-2021
+1947,100,Sneha Patel,West,Electronics,1892.26,255.72,0.08,07-07-2020
+1948,8,Karan Jain,South,Software,2540.45,166.69,0.14,04-04-2022
+1949,76,Amit Bansal,West,Office Supplies,6050.89,1072.78,0.2,12-11-2023
+1950,63,Karan Jain,South,Furniture,5304.97,779.58,0.09,13-12-2023
+1951,66,Amit Bansal,North,Furniture,4826.61,272.81,0.03,18-02-2023
+1952,48,Ananya Gupta,West,Electronics,1648.23,270.89,0.01,09-11-2020
+1953,16,Sneha Patel,East,Office Supplies,3380.97,497.63,0.16,18-10-2020
+1954,76,Karan Jain,North,Office Supplies,8946.04,833.02,0.16,28-09-2022
+1955,1,Ananya Gupta,East,Electronics,8769.05,1170.8,0.11,04-03-2023
+1956,58,Sneha Patel,West,Software,8427.37,1826.52,0.03,10-10-2020
+1957,65,Simran Kaur,West,Software,1915.33,374.59,0.02,03-07-2023
+1958,86,Neha Kapoor,West,Software,2711.81,350.04,0.11,05-10-2023
+1959,57,Rohit Verma,North,Furniture,7218.48,1186.71,0.16,19-12-2023
+1960,40,Amit Bansal,North,Services,1308.94,315.5,0.11,31-03-2024
+1961,7,Neha Kapoor,South,Software,5275.07,283.44,0.13,25-12-2022
+1962,24,Rahul Sharma,East,Furniture,2830.22,540.92,0.18,28-06-2022
+1963,11,Amit Bansal,East,Software,6094.48,903.78,0.19,27-11-2021
+1964,56,Arjun Mehta,West,Electronics,8666.66,983.46,0.05,22-08-2020
+1965,13,Amit Bansal,South,Office Supplies,1868.33,188.91,0.02,20-09-2021
+1966,53,Arjun Mehta,North,Services,9630.67,831.05,0.14,02-09-2021
+1967,50,Ananya Gupta,East,Furniture,4421.82,507.82,0.08,22-08-2024
+1968,16,Rahul Sharma,South,Furniture,7645.27,1278.33,0.1,20-03-2024
+1969,65,Karan Jain,North,Office Supplies,1076,153.83,0.08,18-09-2022
+1970,4,Karan Jain,South,Electronics,3057.02,741.92,0.14,19-05-2021
+1971,98,Amit Bansal,South,Office Supplies,5898.33,821.03,0.17,21-10-2022
+1972,27,Arjun Mehta,East,Services,9860.43,2035.24,0.11,17-05-2022
+1973,72,Simran Kaur,North,Electronics,8220.12,1991.1,0.12,30-08-2023
+1974,22,Rahul Sharma,North,Software,3096.38,310.19,0.14,20-12-2021
+1975,81,Priya Singh,East,Electronics,2033.45,318.88,0.01,02-07-2020
+1976,51,Ananya Gupta,South,Services,9988.8,2254.03,0.04,30-10-2022
+1977,41,Sneha Patel,East,Software,3093.62,564.45,0.06,07-03-2021
+1978,59,Neha Kapoor,East,Electronics,9183.17,704.76,0.18,31-05-2023
+1979,61,Rahul Sharma,North,Furniture,4425.05,1013.57,0.14,10-04-2024
+1980,51,Amit Bansal,North,Electronics,5617.17,1283.6,0.16,30-06-2022
+1981,87,Ananya Gupta,East,Software,8360.93,1016.63,0.04,21-04-2024
+1982,90,Rahul Sharma,North,Software,4019.57,356.13,0,01-03-2024
+1983,3,Rohit Verma,East,Furniture,1354.68,233.94,0.06,10-01-2024
+1984,29,Priya Singh,West,Office Supplies,849.56,126.22,0.14,26-05-2023
+1985,27,Rahul Sharma,South,Software,1553.99,163.9,0.1,15-12-2020
+1986,71,Priya Singh,South,Electronics,6087.56,1212.61,0.03,13-03-2023
+1987,30,Amit Bansal,East,Furniture,8552.84,467.19,0.19,20-10-2023
+1988,69,Neha Kapoor,East,Services,8889.47,447.95,0.09,10-10-2023
+1989,84,Rahul Sharma,East,Software,8521.24,1119.48,0.02,27-11-2022
+1990,60,Simran Kaur,East,Services,7710.71,1748.48,0.04,23-07-2021
+1991,54,Amit Bansal,West,Office Supplies,549.01,48.82,0.02,17-03-2023
+1992,4,Priya Singh,West,Electronics,9211.45,823.28,0.07,08-05-2020
+1993,81,Ananya Gupta,North,Software,4603.51,252.29,0.16,15-11-2021
+1994,33,Priya Singh,North,Software,2764.41,326.64,0.01,14-11-2021
+1995,67,Priya Singh,North,Services,6385.88,1295.18,0.13,31-03-2023
+1996,16,Ananya Gupta,North,Electronics,4085.25,931.51,0.14,21-05-2024
+1997,17,Rahul Sharma,West,Electronics,3363.98,589.49,0.01,19-10-2023
+1998,8,Amit Bansal,North,Office Supplies,8574.33,1117.55,0.12,21-04-2022
+1999,30,Neha Kapoor,North,Software,4147.24,866.91,0.18,22-06-2023
+2000,13,Sneha Patel,North,Software,5413.52,907.1,0.02,26-01-2020

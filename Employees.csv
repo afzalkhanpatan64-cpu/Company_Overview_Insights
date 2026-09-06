@@ -1,0 +1,101 @@
+﻿EmployeeID,Name,Department,Role,City,Gender,Salary,HireDate,PerformanceScore,ManagerID,Experience
+1,Shreya_1,Sales,Sales Executive,Bangalore,F,55800,30-09-2017,4.9,4,3
+2,Sameer_2,Sales,Sales Associate,Bangalore,M,116800,15-08-2021,3.3,7,1
+3,Ananya_3,Sales,Sales Executive,Noida,M,77200,17-04-2021,3.9,4,12
+4,Naman_4,Marketing,SEO Specialist,Noida,F,84100,10-08-2021,3.3,5,1
+5,Parul_5,HR,HR Manager,Mumbai,F,81100,12-02-2018,3,3,4
+6,Parul_6,IT,Software Engineer,Delhi,F,40800,01-02-2016,4.4,6,6
+7,Tanvi_7,IT,Software Engineer,Bangalore,F,104900,05-01-2021,3.4,2,7
+8,Sneha_8,Marketing,SEO Specialist,Bangalore,F,45300,22-06-2021,5,4,12
+9,Rohit_9,Sales,Sales Associate,Noida,F,93700,23-11-2015,4.2,4,2
+10,Shruti_10,IT,Data Analyst,Bangalore,F,111900,28-10-2016,3.9,6,6
+11,Sarthak_11,IT,QA Engineer,Bangalore,M,65700,31-10-2021,3.8,3,9
+12,Aditi_12,HR,HR Executive,Mumbai,F,58400,10-01-2018,3.6,9,4
+13,Ira_13,IT,Software Engineer,Noida,M,99200,11-01-2024,3.9,6,7
+14,Varun_14,Sales,Sales Executive,Pune,F,75800,20-05-2017,3.4,8,7
+15,Naman_15,Finance,Accountant,Gurgaon,M,96900,07-10-2017,5,9,9
+16,Nisha_16,Marketing,SEO Specialist,Pune,F,51400,22-01-2019,4.7,4,3
+17,Rekha_17,Finance,Accountant,Delhi,M,81600,18-09-2016,3.3,3,11
+18,Aditya_18,Marketing,Content Strategist,Mumbai,F,50600,06-09-2021,4.9,8,9
+19,Nisha_19,Marketing,Content Strategist,Bangalore,M,114000,24-08-2022,3.8,9,5
+20,Arnav_20,IT,Software Engineer,Gurgaon,F,63900,09-10-2016,3.2,8,1
+21,Aditi_21,IT,QA Engineer,Noida,M,63500,05-10-2024,3.2,5,11
+22,Rekha_22,Marketing,Content Strategist,Noida,F,57200,21-07-2023,3.1,3,9
+23,Arnav_23,Marketing,Content Strategist,Pune,F,75900,24-06-2020,3.5,1,2
+24,Kapil_24,IT,Software Engineer,Delhi,M,109500,05-11-2024,4.5,10,2
+25,Sneha_25,Finance,Accountant,Pune,M,106600,09-06-2016,4,8,9
+26,Isha_26,IT,QA Engineer,Pune,F,119000,17-05-2017,4.1,9,12
+27,Vikas_27,HR,HR Manager,Gurgaon,F,49700,14-07-2022,4.9,6,8
+28,Abhishek_28,Finance,Accountant,Noida,M,112400,20-09-2015,3.9,6,1
+29,Rohan_29,Marketing,Content Strategist,Pune,M,77100,30-01-2015,4.8,2,12
+30,Shreya_30,Sales,Sales Executive,Delhi,M,72600,22-08-2024,4.8,6,2
+31,Rekha_31,HR,Recruiter,Bangalore,F,80400,27-05-2017,3.4,9,3
+32,Aditi_32,Marketing,Marketing Manager,Mumbai,M,41000,19-10-2023,4.9,8,7
+33,Tanya_33,Sales,Sales Executive,Bangalore,F,63200,22-12-2018,4.5,7,7
+34,Aakash_34,Sales,Sales Associate,Bangalore,M,49300,06-09-2015,4.2,7,12
+35,Aryan_35,Sales,Sales Executive,Noida,M,103700,05-01-2021,3.6,8,3
+36,Aditya_36,HR,Recruiter,Mumbai,M,48600,21-10-2024,3.6,2,8
+37,Nikhil_37,Sales,Sales Executive,Bangalore,M,78000,18-01-2016,4.6,4,3
+38,Simran_38,Finance,Financial Analyst,Noida,F,89000,29-08-2015,5,3,7
+39,Yash_39,Finance,Financial Analyst,Mumbai,F,102600,29-09-2019,3.4,9,11
+40,Sonia_40,Finance,Accountant,Noida,F,88200,10-06-2017,4.6,1,10
+41,Sameer_41,Marketing,Content Strategist,Bangalore,F,79500,23-08-2015,4.4,1,10
+42,Kunal_42,Marketing,Marketing Manager,Noida,M,101900,11-09-2020,4.5,2,3
+43,Rohit_43,Marketing,Content Strategist,Bangalore,M,78700,12-07-2019,4.9,2,10
+44,Vivek_44,Marketing,Marketing Manager,Delhi,M,104500,14-09-2019,3.2,10,10
+45,Abhishek_45,IT,Data Analyst,Noida,F,62700,04-09-2017,4.7,5,7
+46,Amit_46,IT,Data Analyst,Gurgaon,M,118600,08-02-2015,3.7,8,10
+47,Payal_47,Sales,Sales Executive,Pune,M,75200,03-09-2020,4.3,5,3
+48,Ritika_48,Sales,Sales Executive,Gurgaon,F,103300,08-10-2016,3.5,8,9
+49,Sonia_49,IT,QA Engineer,Bangalore,M,110600,28-06-2022,3.8,9,5
+50,Gaurav_50,Sales,Sales Executive,Gurgaon,M,48100,23-12-2024,4.4,2,12
+51,Nikhil_51,HR,Recruiter,Gurgaon,M,93000,18-01-2023,4.4,6,4
+52,Ira_52,IT,QA Engineer,Mumbai,F,46900,27-06-2024,3.5,1,2
+53,Shreya_53,Finance,Financial Analyst,Delhi,M,40200,28-09-2018,3.9,3,11
+54,Nisha_54,HR,HR Manager,Mumbai,F,63400,16-04-2021,3.2,1,2
+55,Rohit_55,HR,HR Manager,Delhi,F,90000,13-07-2021,4.3,9,3
+56,Aditya_56,HR,HR Executive,Gurgaon,F,94300,05-12-2023,4,1,6
+57,Sarthak_57,HR,HR Manager,Delhi,F,58100,01-10-2023,3.3,9,7
+58,Devesh_58,HR,HR Executive,Noida,M,111900,19-11-2024,3.8,7,1
+59,Manav_59,IT,Data Analyst,Bangalore,M,73800,28-12-2017,4.9,3,12
+60,Priya_60,Finance,Accountant,Mumbai,M,115400,28-03-2017,4.4,8,6
+61,Harsh_61,HR,HR Executive,Delhi,M,62300,21-06-2019,4.9,6,5
+62,Rohit_62,IT,Data Analyst,Bangalore,F,104000,15-08-2022,3.6,9,6
+63,Ananya_63,Sales,Regional Manager,Noida,F,42700,06-06-2015,3.9,2,10
+64,Aditya_64,IT,QA Engineer,Gurgaon,F,109200,19-10-2021,3.8,9,2
+65,Shruti_65,Marketing,Content Strategist,Gurgaon,M,82900,13-12-2022,4.1,7,1
+66,Abhishek_66,Marketing,Marketing Manager,Bangalore,M,66100,31-01-2019,3.2,7,2
+67,Gaurav_67,IT,QA Engineer,Gurgaon,M,62000,27-01-2023,3.6,5,9
+68,Harsh_68,Finance,Financial Analyst,Mumbai,F,63800,20-03-2021,3.5,3,4
+69,Simran_69,Finance,Finance Manager,Bangalore,M,106800,26-11-2021,3.9,10,5
+70,Raj_70,Marketing,Content Strategist,Gurgaon,F,95000,10-05-2017,3.6,7,10
+71,Tanvi_71,IT,Data Analyst,Mumbai,F,98100,30-07-2022,4,4,9
+72,Kunal_72,HR,HR Manager,Delhi,F,43700,12-10-2020,4.4,10,6
+73,Sneha_73,HR,HR Manager,Gurgaon,M,53500,17-01-2024,3.7,4,3
+74,Ananya_74,Sales,Sales Executive,Mumbai,M,74800,09-02-2020,3.3,7,11
+75,Payal_75,HR,HR Manager,Bangalore,F,101100,17-07-2020,4,7,4
+76,Karan_76,Sales,Sales Executive,Mumbai,M,108800,21-12-2016,3.8,9,8
+77,Neha_77,Marketing,Content Strategist,Delhi,F,91000,30-06-2016,4.9,8,11
+78,Abhishek_78,Marketing,Marketing Manager,Gurgaon,F,102000,14-11-2021,3.5,9,7
+79,Nikhil_79,Finance,Accountant,Bangalore,F,105300,18-01-2020,4,5,4
+80,Shreya_80,IT,QA Engineer,Mumbai,M,63700,29-01-2018,3.3,8,2
+81,Sonia_81,IT,Software Engineer,Gurgaon,F,66700,02-08-2018,5,9,2
+82,Amit_82,HR,HR Executive,Mumbai,M,40900,03-12-2022,3.6,4,2
+83,Simran_83,Finance,Financial Analyst,Pune,F,47400,31-08-2019,4.3,1,4
+84,Simran_84,Finance,Finance Manager,Bangalore,M,86700,10-08-2024,3.3,10,7
+85,Kunal_85,Sales,Regional Manager,Gurgaon,F,90900,27-07-2024,3.9,7,9
+86,Sameer_86,Marketing,Marketing Manager,Noida,F,66300,17-06-2017,3.5,5,7
+87,Pooja_87,Sales,Regional Manager,Gurgaon,F,110500,14-02-2023,3.2,3,8
+88,Amit_88,Marketing,Marketing Manager,Delhi,F,52700,21-08-2021,4.5,10,11
+89,Ananya_89,Sales,Sales Associate,Mumbai,M,107900,20-09-2024,3.9,8,3
+90,Neha_90,IT,Data Analyst,Gurgaon,M,105700,06-02-2020,3.8,6,6
+91,Parul_91,Finance,Financial Analyst,Mumbai,F,62700,12-05-2024,4.7,2,8
+92,Ananya_92,Marketing,Content Strategist,Gurgaon,M,82100,16-04-2022,4,2,11
+93,Arjun_93,Sales,Sales Executive,Noida,M,91700,19-12-2021,3.1,3,4
+94,Amit_94,Finance,Finance Manager,Delhi,M,89800,19-03-2020,3.7,5,6
+95,Isha_95,Marketing,Marketing Manager,Bangalore,M,112100,21-09-2023,4.4,3,5
+96,Priya_96,Marketing,Content Strategist,Gurgaon,F,51400,13-06-2019,4.3,4,2
+97,Rohan_97,HR,HR Executive,Bangalore,F,48700,14-07-2024,4.4,10,2
+98,Payal_98,Sales,Regional Manager,Pune,F,111300,02-06-2022,4,6,2
+99,Rekha_99,IT,Software Engineer,Mumbai,F,51100,08-03-2016,3.3,7,6
+100,Shreya_100,Finance,Finance Manager,Noida,F,48200,22-12-2016,4.5,9,11
