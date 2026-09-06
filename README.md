@@ -48,18 +48,5 @@ The analysis script (`Company Overview Analysis.sql`) comprises 26 production qu
 ---
 
 ## 📊 Power BI Dashboard & DAX Measures
+<img width="1527" height="858" alt="Screenshot 2026-09-06 120106" src="https://github.com/user-attachments/assets/45e486fb-3b39-44b1-b24b-ec4e1721340b" />
 
-The interactive report (`Employee Overview Dshboard.pbix`) implements the following core DAX measures[cite: 1]:
-
-```dax
-<img width="1527" height="858" alt="Screenshot 2026-09-06 120106" src="https://github.com/user-attachments/assets/1ee7b2bd-e01b-42ba-bf52-449b
-Total Employees = COUNTROWS('Employees')
-
-// Commercial Volume & Profit
-Total Sales = SUM('Sales'[Sales])
-Total Profit = SUM('Sales'[Profit])
-Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
-
-// Workforce Benchmarks
-AVG Salary = AVERAGE('Employees'[Salary])
-Avg Performance = AVERAGE('Employees'[PerformanceScore])
